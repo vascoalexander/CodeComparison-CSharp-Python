@@ -3,7 +3,7 @@
 **Description:**
 This project contains a collection of simple coding exercises solved in both C# and Python. The goal is to compare the syntax and programming concepts of both languages. Each task is implemented in both C# and Python to highlight differences in syntax and approach.
 
-[Exercises (ENG)](./Exercises_EN.md)
+[Exercises (ENG)](./Exercises_EN.md)  
 [Exercises (DE)](./Exercises_DE.md)
 
 ## Usage
