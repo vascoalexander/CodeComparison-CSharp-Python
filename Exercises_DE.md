@@ -1,5 +1,5 @@
 # 1 Grundlagen
----
+
 #### 1.1 Variablen
 
 ##### Übung 1.1.1
@@ -122,46 +122,46 @@ Schreiben Sie ein Programm, das Integer addiert, die vom Benutzer eingegeben wer
 ##### Übung 1.3.8
 Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
 
-XXXXXXX
-XXXXXXX
-XXXXXXX
-XXXXXXX
-XXXXXXX
-XXXXXXX
-XXXXXXX
+XXXXXXX  
+XXXXXXX  
+XXXXXXX  
+XXXXXXX  
+XXXXXXX  
+XXXXXXX  
+XXXXXXX  
 
 ##### Übung 1.3.9
 Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
 
-X------
--X-----
---X----
----X---
-----X--
------X-
-------X
+X------  
+-X-----  
+--X----  
+---X---  
+----X--  
+-----X-  
+------X  
 
 ##### Übung 1.3.10
 Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
 
-X-----x
--X---X-
---X-X--
----X---
---X-X--
--X---X-
-X-----X
+X-----x  
+-X---X-  
+--X-X--  
+---X---  
+--X-X--  
+-X---X-  
+X-----X  
 
 ##### Übung 1.3.11
 Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
 
-X------
--X-----
---X----
----XXXX
---X----
--X-----
-X------
+X------  
+-X-----  
+--X----  
+---XXXX  
+--X----  
+-X-----  
+X------  
 
 ##### Übung 1.3.12
 Entwickeln Sie ein Programm für einen einarmigen Banditen. Der Spieler erhält 10 Coins. Jedes Spiel kostet 1 Coin. Wenn zwei gleiche Werte kommen, gewinnt der Spieler 3 Coins, bei 3 gleichen Werten erhält er sofort l0 Coins.
@@ -177,41 +177,41 @@ die mit dem Zufallszahlgenerator erzeugt werden.
 
 ##### Übung 1.3.13
 Entwickeln Sie ein Programm mit Schleifen, das ein Sägezahnblatt wie folgt ausgibt:
-
-*
-***
-*****
-*******
-*********
-***********
-*************
-
+```
+*  
+***  
+*****  
+*******  
+*********  
+***********  
+*************  
+```
 ##### Übung 1.3.14
 Entwickeln Sie ein Programm mit Schleifen, das ein Sägezahnblatt
 wie folgt ausgibt:
-
-******** 
-******* 
-****** 
-*****
-****
-***
-**
-*
-
+```
+********  
+*******   
+******   
+*****  
+****  
+***  
+**  
+*  
+```
 ##### Übung 1.3.15
 Entwickeln Sie ein Programm mit Schleifen, das einen Tannenbaum wie folgt ausgibt:
-
-	     *
-	    ***
-	   *****
-	  *******
-	 *********
-	***********
-	    ***
-	    ***
-	    ***
-
+```
+	     *  
+	    ***  
+	   *****  
+	  *******  
+	 *********  
+	***********  
+	    ***  
+	    ***  
+	    ***  
+```
 ##### Übung 1.3.16
 Entwickeln Sie die nachfolgenden for-Schleifen jeweils als while-Schleife:
 
@@ -273,7 +273,7 @@ Sie haben das Spiel verloren.
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 # 2 Datenstrukturen
----
+
 #### 2.1 Arrays
 
 #### 2.2 Listen
@@ -288,7 +288,7 @@ Sie haben das Spiel verloren.
 
 
 # Nr. 3 Algorithmen
----
+
 #### 3.1 Sortieren
 
 #### 3.2 Suchen
@@ -301,7 +301,7 @@ Sie haben das Spiel verloren.
 
 
 # 4 Fortgeschrittene Themen
----
+
 #### 4.1 Objektorientierte Programmierung (OOP)
 
 #### 4.2 Datei-I/O
