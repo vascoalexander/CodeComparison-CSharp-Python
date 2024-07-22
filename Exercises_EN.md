@@ -40,6 +40,35 @@ In a competition, all participants in the heavyweight class must weight
 between 235 and 265 pounds. Write a program that asks for the competitors weight
 and then outputs whether he is eligible to participate in the competition or not.
 
+##### Exercise 1.2.4
+You enter 7 numbers using the keyboard. At the end, the program displays the the largest number.
+
+##### Exercise 1.2.5
+Write a program that checks whether the user's age is over 18 or not. If the user's age is greater than or equal to 18, the program should display 'The user is of legal age', otherwise 'The user is a minor'.
+
+##### Exercise 1.2.6
+A bank proceeds according to the following rule:
+If a customer has a balance of more than 1,000 euros in their current account or a balance of more than 1,500 euros in their savings account, no check fee is charged. Otherwise, a fee of 0.15 euros will be charged. Write a program that asks for the balance of the two accounts and then outputs how much the fee is.
+
+##### Exercises 1.2.7
+A parcel service charges 3.00 euros shipping costs up to a weight of
+10 kilos (inclusive). Above this weight, an additional 0.25 euros must be paid for each kilo. Write a program that asks the user for the weight of the shipment and then displays the shipping costs.
+
+Weight of the shipment: 11 
+Shipping costs: 3.25 euros
+
+##### Exercise 1.2.8
+Write a program to calculate values from Euro to DM and vice versa. The user should be asked for the amount and into which currency the amount should be converted. The character 'e' should be evaluated for the calculation DM -> Euro. If the character entered, is a different character, the calculation should be Euro -> DM.
+
+The formula you need for this is
+Euro = DM/1.95583 or DM = Euro * 1.95583
+
+##### Exercise 1.2.9
+Change the program from exercise 1.2.8 in a way, that from a weight of 20 kilos, 0.50 euros must be paid for every kilo over 10 kilos.
+
+Weight of the shipment: 25 
+Shipping costs: 10.50 euros
+
 #### 1.3 Loops
 
 

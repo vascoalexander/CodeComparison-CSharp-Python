@@ -35,6 +35,35 @@ Schreibe ein Programm das eine Zahl vom Nutzer entgegennimmt und auf der Konsole
 ##### Übung 1.2.3
 Bei einem Wettbewerb müssen alle Teilnehmer in der Schwergewichtsklasse zwischen 235 und 265 Pfund wiegen. Schreiben Sie ein Programm, das nach dem Gewicht des Teilnehmers fragt und dann ausgibt, ob er zum Wettbewerb zugelassen ist.
 
+##### Übung 1.2.4
+Sie geben per Tastur 7 Zahlen ein. Das Programm gibt am Ende die größte Zahl aus.
+
+##### Übung 1.2.5
+Schreiben Sie ein Programm das überprüft, ob das Alter des Benutzers über 18 liegt oder nicht. Wenn das Alter des Benutzers größer oder gleich 18 ist, soll das Programm 'Der Benutzer ist volljährig' anzeigen, andernfalls 'Der Benutzer ist minderjährig'.
+
+##### Übung 1.2.6
+Eine Bank verfährt nach folgender Regel:
+Wenn ein Kunde auf seinem Girokonto ein Guthaben von mehr als 1.000 Euro oder auf seinem Sparkonto ein Guthaben von mehr als 1.500 Euro hat, wird keine Scheckgebühr erhoben. Andernfalls wird eine Gebühr von 0,15 Euro erhoben. Schreiben Sie ein Programm, das nach dem Kontostand der beiden Konten fragt und dann ausgibt, wie hoch die Gebühr ist.
+
+##### Übung 1.2.7
+Ein Paketdienst berechnet 3,00 Euro Versandkosten bis zu einem
+Gewicht von 10 Kilo (inklusive). Darüber sind für jedes Kilo zusätzlich 0,25 Euro zu bezahlen. Schreiben Sie ein Programm, das den Anwender nach dem Gewicht der Sendung fragt und dann die Versandkosten ausgibt.
+
+Gewicht der Sendung: 11 
+Versandkosten: 3,25 Euro
+
+##### Übung 1.2.8
+Schreiben Sie ein Programm, mit dem Sie Werte von Euro nach DM und umgekehrt ausrechnen können. Der Anwender soll dabei nach dem Betrag gefragt werden und in welche Währung der Betrag umgerechnet werden soll. Dabei soll das Zeichen 'e' für die Berechnung DM -> Euro ausgewertet werden. Ist das eingegebene Zeichen ein anderes, soll die Berechnung Euro -> DM erfolgen.
+
+Die Formel die Sie dazu benötigen sind:
+Euro = DM/1,95583 bzw.  DM = Euro * 1,95583
+
+##### Übung 1.2.9
+Verändern Sie das Programm aus Übung 1.2.8 so, dass ab einem Gewicht von 20 Kilo 0.50 Euro für jedes Kilo über 10 Kilo zu bezahlen sind.
+
+Gewicht der Sendung: 25
+Versandkosten: 10,50 Euro
+
 #### 1.3 Schleifen
 
 
