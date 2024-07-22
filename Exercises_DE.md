@@ -97,6 +97,180 @@ Die Ausgabe des Programms ist „Tanken!" oder „Weiterfahren", je nachdem, ob 
 
 #### 1.3 Schleifen
 
+##### Übung 1.3.1
+Schreiben Sie ein Programm, das über eine for-Schleife von 0 bis 20 läuft. Geben Sie bei jedem Schritt den Wert des Schleifenzählers aus.
+
+##### Übung 1.3.2
+Schreiben Sie ein Programm, das über eine for-Schleife von 0 bis 20 in Zweier-Schritten läuft. Geben Sie bei jedem Schritt den Wert des Schleifenzählers aus.
+
+##### Übung 1.3.3
+Schreiben Sie ein Programm, das über eine for-Schleife von 40 bis 0 läuft. Geben Sie bei jedem Schritt den Wert des Schleifenzählers aus.
+
+##### Übung 1.3.4
+Schreiben Sie ein Programm, das die folgende Summe berechnet:
+**Summe = 1 + 2 + 3 + 4 + ... + n**. Die Variable n ist vom Typ integer und soll vom Anwender eingegeben werden. Das Ergebnis soll am Ende der Berechnung ausgegeben werden.
+
+##### Übung 1.3.5
+Schreiben Sie ein Programm, welches das Produkt der ungeraden Zahlen berechnet **Produkt = 1 * 3 * 5 * ... * n**. Die Variable n ist vom Typ integer und soll vom Anwender eingegeben werden. Das Ergebnis soll am Ende der Berechnung ausgegeben werden.
+
+##### Übung 1.3.6
+Entwickeln Sie ein Programm, das mit Hilfe einer Zählschleife jeden durch **7** teilbaren Wert zwischen 1 und 100 anzeigt.
+
+##### Übung 1.3.7
+Schreiben Sie ein Programm, das Integer addiert, die vom Benutzer eingegeben werden. Das Programm fragt vorher, wie viele Zahlen addiert werden sollen. Danach fordert das Programm den Benutzer auf, die Zahlen nacheinander einzugeben. Schließlich gibt es das Ergebnis auf dem Bildschirm aus. Realisieren Sie das Programm mit einer for-Schleife.
+
+##### Übung 1.3.8
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+
+##### Übung 1.3.9
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+X------
+-X-----
+--X----
+---X---
+----X--
+-----X-
+------X
+
+##### Übung 1.3.10
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+X-----x
+-X---X-
+--X-X--
+---X---
+--X-X--
+-X---X-
+X-----X
+
+##### Übung 1.3.11
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+X------
+-X-----
+--X----
+---XXXX
+--X----
+-X-----
+X------
+
+##### Übung 1.3.12
+Entwickeln Sie ein Programm für einen einarmigen Banditen. Der Spieler erhält 10 Coins. Jedes Spiel kostet 1 Coin. Wenn zwei gleiche Werte kommen, gewinnt der Spieler 3 Coins, bei 3 gleichen Werten erhält er sofort l0 Coins.
+
+Mögliche Anzeige:
+
+3	6	1	leider verloren, Guthaben 9 Coins
+3	3	5	3 Coins, Guthaben 11 Coins
+5	3	5	3 Coins, Guthaben 13 Coins
+
+Unser Automat verfügt über 10 Figuren (0 bis 9),
+die mit dem Zufallszahlgenerator erzeugt werden.
+
+##### Übung 1.3.13
+Entwickeln Sie ein Programm mit Schleifen, das ein Sägezahnblatt wie folgt ausgibt:
+
+*
+***
+*****
+*******
+*********
+***********
+*************
+
+##### Übung 1.3.14
+Entwickeln Sie ein Programm mit Schleifen, das ein Sägezahnblatt
+wie folgt ausgibt:
+
+******** 
+******* 
+****** 
+*****
+****
+***
+**
+*
+
+##### Übung 1.3.15
+Entwickeln Sie ein Programm mit Schleifen, das einen Tannenbaum wie folgt ausgibt:
+
+	     *
+	    ***
+	   *****
+	  *******
+	 *********
+	***********
+	    ***
+	    ***
+	    ***
+
+##### Übung 1.3.16
+Entwickeln Sie die nachfolgenden for-Schleifen jeweils als while-Schleife:
+
+´´´python
+for i in range(7):
+    print(i)
+
+for i in [2,5,3,1,4]:
+    print(i)
+´´´
+
+##### Übung 1.3.17
+Schreiben Sie ein Programm, mit dem Sie die Quersumme einer Zahl
+unter Zuhilfenahme einer while-Schleife berechnen können. Hinweis: Zur Berechnung der Quersumme benötigen Sie den Modulo-Operator und die ganzzahlige Division.
+
+##### Übung 1.3.18
+Ein Kunde schuldet seiner Kreditkartengesellschaft 1.000,00 Euro. Die Gesellschaft berechnet ihm monatlich 1,5% Zinsen für den gewährten Kredit. Er entscheidet sich, die Kreditkarte nicht mehr zu verwenden und seinen Kredit monatlich mit einem bestimmten Betrag **n** zurückzuzahlen. Schreiben Sie ein Programm, das nach dem monatlichen Rückzahlungsbetrag fragt und dann den Saldo und den Gesamtbetrag der Zahlungen für jeden Monat ausgibt, bis der Saldo 0 oder weniger beträgt.
+
+**Beispielausgabe:**
+
+Geben Sie den monatlichen Betrag ein: 100 
+Monat: 1 Saldo: 915,0 Gesamtbetrag: 100,0 
+Monat: 2 Saldo: 828,725 Gesamtbetrag: 200,0 
+Monat: 3 Saldo: 741,155875 Gesamtbetrag: 300,0 
+Monat: 4 Saldo: 652,273213125 Gesamtbetrag: 400,0 
+Monat: 5 Saldo: 562,057311321875 Gesamtbetrag: 500,0 
+Monat: 6 Saldo: 470,4881709917031 Gesamtbetrag: 600,0 
+Monat: 7 Saldo: 377,54549355657866 Gesamtbetrag: 700,0 
+Monat: 8 Saldo: 283,20867595992735 Gesamtbetrag: 800,0 
+Monat: 9 Saldo: 187,4568060993263 Gesamtbetrag: 900,0 
+Monat: 10 Saldo: 90,26865819081618 Gesamtbetrag: 1000,0 
+Monat: 11 Saldo: -8,377311936321576 Gesamtbetrag: 1100,0
+
+Berechnen Sie die monatlichen Zinsen auf Grund des Saldos.
+Berechnen Sie dann den neuen Saldo, indem Sie die Zinsen addieren
+und den zurückgezahlten Betrag subtrahieren.
+
+##### Übung 1.3.19
+Schreiben Sie ein Programm, das ein Ratespiel implementiert:
+Das Programm wählt eine Zufallszahl zwischen 1 und 10 aus. Jetzt hat der Spieler drei Versuche. Sobald der Spieler die richtige Zahl eingibt, gibt das Programm eine Meldung über den Gewinn des Spiels aus und endet. Wenn der Spieler nach drei Versuchen die Zahl nicht erraten hat, gibt das Programm eine Meldung über den Misserfolg aus und endet. Sie benötigen dazu die import-Anweisung mit random, und die Funktion random.randint(1, 10) die eine Zufallszahl zwischen 1 und <= 10 erzeugt:
+
+Hier sind zwei Probeläufe des Programms:
+
+Ich denke an eine Zahl zwischen 1 und 10.
+Sie haben drei Versuche, um die Zahl zu erraten.
+Geben Sie eine Zahl ein: 4 falsch
+Geben Sie eine Zahl ein: 8 RICHTIG!
+Sie haben das Spiel gewonnen.
+
+Ich denke an eine Zahl zwischen 1 und 10.
+Sie haben drei Versuche, um die Zahl zu erraten.
+Geben Sie eine Zahl ein: 1 falsch
+Geben Sie eine Zahl ein: 5 falsch
+Geben Sie eine Zahl ein: 9 falsch
+Die richtige Zahl war 7.
+Sie haben das Spiel verloren.
+
+[Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)
+[C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 # 2 Datenstrukturen
 ---
