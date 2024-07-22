@@ -64,6 +64,37 @@ Verändern Sie das Programm aus Übung 1.2.8 so, dass ab einem Gewicht von 20 Ki
 Gewicht der Sendung: 25
 Versandkosten: 10,50 Euro
 
+##### Übung 1.2.10
+Schreiben Sie ein Programm, das den Anwender nach seinem Geburtsjahr fragt, kodiert mit zwei Ziffern, und nach dem aktuellen Jahr fragt, ebenfalls kodiert mit zwei Ziffern. Das Programm soll das richtige Alter des Anwenders in Jahren ausgeben.
+
+Geburtsjahr: 62 
+Aktuelles Jahr: 09 
+Ihr Alter ist: 47
+
+##### Übung 1.2.11
+Schreiben Sie ein Programm zur Berechnung von Schaltjahren.
+Ob ein Jahr ein Schaltjahr ist, hängt von mehreren Bedingungen ab:
+Ist ein Jahr durch 400 ohne Rest teilbar, ist es immer ein Schaltjahr. Ist ein Jahr durch 4, jedoch nicht durch 100 teilbar, ist es ein Schaltjahr. In allen anderen Fällen ist es kein Schaltjahr. Schreiben Sie ein Programm „Schaltjahr", das nach einer Jahreszahl fragt und danach überprüft, ob es sich bei dem Jahr um ein Schaltjahr handelt. Nach der Prüfung soll ausgegeben werden, ob es ein Schaltjahr ist oder nicht.
+
+##### Übung 1.2.12
+Der Hersteller eines Mikrowellenherds empfiehlt beim Erhitzen von zwei Portionen 50% mehr Erhitzungszeit und beim Erhitzen von drei Portionen, die Erhitzungszeit zu verdoppeln. Das Erhitzen von mehr als drei Portionen wird nicht empfohlen. Schreiben Sie ein Programm, das den Anwender nach der Anzahl der Portionen und nach der Erhitzungszeit für eine Portion fragt. Das Programm gibt dann die empfohlene Erhitzungszeit aus. Hinweis: Verwenden Sie vier aufeinander folgende if-Abfragen ohne else-Zweig, wobei jede von ihnen einen von vier Fällen testet: eine Portion, zwei Portionen, drei Portionen, mehr als drei Portionen.
+
+##### Übung 1.2.13
+Sepps Tanke befindet sich an der A565 in Bonn am Rande der Eifel. Die nächsten 200 Kilometer gibt es keine weitere Tankstelle. Schreiben Sie ein Programm, das den Fahrern hilft zu entscheiden, ob sie tanken sollen oder nicht.
+
+Das Programm fragt nach:
+-	Der Tankkapazität in Litern
+-	Der Benzinanzeige in Prozent (voll = 100, dreiviertel voll = 75, usw.)
+-	Dem Benzinverbrauch des Fahrzeugs in km pro Liter.
+
+Die Ausgabe des Programms ist „Tanken!" oder „Weiterfahren", je nachdem, ob das Fahrzeug genug Benzin für 200 Kilometer hat oder nicht.
+
+    Beispiel:
+    Tankkapazität: 12 
+    Benzinanzeige in %: 50
+    Benzinverbrauch km/l: 30 
+    Tanken!
+
 #### 1.3 Schleifen
 
 

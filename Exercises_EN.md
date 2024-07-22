@@ -69,6 +69,35 @@ Change the program from exercise 1.2.8 in a way, that from a weight of 20 kilos,
 Weight of the shipment: 25 
 Shipping costs: 10.50 euros
 
+##### Exercise 1.2.10
+Write a program that asks the user for his year of birth, coded with two digits, and asks for the current year, also coded with two digits. The program should output the correct age of the user in years.
+
+Year of birth: 62 
+Current year: 09 
+Your age is: 47
+
+##### Exercise 1.2.11
+Write a program to calculate leap years. Whether a year is a leap year depends on several conditions: If a year is divisible by 400 without a remainder, it is always a leap year. If a year is divisible by 4 but not by 100, it is a leap year. In all other cases, it is not a leap year. Write a program that asks for a year number and then checks whether the year is a leap year. After the check, the program should output if it's a leap year or not.
+
+##### Exercise 1.2.12
+The manufacturer of a microwave oven recommends 50% more heating time when heating two portions and double the heating time when heating three portions. Heating more than three portions is not recommended. Write a program that asks the user for the number of portions and the heating time for one portion. The program will then output the recommended heating time. Note: Use four consecutive if queries without an else branch, each of them testing one of four cases: one serving, two servings, three servings, more than three servings.
+
+##### Exercise 1.2.13
+Sepp's petrol station is located on the A565 in Bonn on the edge of the Eifel. There is no other filling station for the next 200 kilometers. Write a program that helps drivers to decide whether they should refuel or not.
+
+The program asks:
+- The tank capacity in liters
+- The fuel gauge in percent (full = 100, three-quarters full = 75, etc.)
+- The fuel consumption of the vehicle in km per liter.
+
+The output of the program is “Refuel!” or “Continue driving”, depending on whether the vehicle has enough fuel for 200 kilometers or not.
+
+    Example:
+    Tank capacity: 12
+    Fuel gauge in %: 50
+    Fuel consumption km/l: 30 
+    Refuel!
+
 #### 1.3 Loops
 
 

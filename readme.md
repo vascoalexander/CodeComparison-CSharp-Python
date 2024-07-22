@@ -47,7 +47,95 @@ This project contains a collection of simple coding exercises solved in both C# 
    ```sh
    python <FileName>.py
    ```
+## General Project Structure
 
+```mathematica
+CodeComparison-CSharp-Python/
+│
+├── CSharp/
+│   ├── Basics/
+│   │   ├── HelloWorld/
+│   │   │   └── HelloWorld.cs
+│   │   ├── Variables/
+│   │   │   └── Variables.cs
+│   │   ├── Conditionals/
+│   │   │   └── Conditionals.cs
+│   │   └── Loops/
+│   │       └── Loops.cs
+│   ├── DataStructures/
+│   │   ├── Arrays/
+│   │   │   └── Arrays.cs
+│   │   ├── Lists/
+│   │   │   └── Lists.cs
+│   │   └── Dictionaries/
+│   │       └── Dictionaries.cs
+│   ├── Algorithms/
+│   │   ├── Sorting/
+│   │   │   └── Sorting.cs
+│   │   ├── Searching/
+│   │   │   └── Searching.cs
+│   │   └── Recursion/
+│   │       └── Recursion.cs
+│   └── AdvancedTopicsMiscellaneous/
+│       ├── OOP/
+│       │   └── OOP.cs
+│       ├── FileIO/
+│       │   └── FileIO.cs
+│       ├── ExceptionHandling/
+│       │   └── ExceptionHandling.cs
+│       ├── RegularExpressions/
+│       │   └── RegularExpressions.cs
+│       ├── DateAndTime/
+│       │   └── DateAndTime.cs
+│       ├── UnitTesting/
+│       │   └── UnitTesting.cs
+│       └── WebScraping/
+│           └── WebScraping.cs
+│   └── README.md
+│
+├── Python/
+│   ├── Basics/
+│   │   ├── HelloWorld/
+│   │   │   └── HelloWorld.py
+│   │   ├── Variables/
+│   │   │   └── Variables.py
+│   │   ├── Conditionals/
+│   │   │   └── Conditionals.py
+│   │   └── Loops/
+│   │       └── Loops.py
+│   ├── DataStructures/
+│   │   ├── Arrays/
+│   │   │   └── Arrays.py
+│   │   ├── Lists/
+│   │   │   └── Lists.py
+│   │   └── Dictionaries/
+│   │       └── Dictionaries.py
+│   ├── Algorithms/
+│   │   ├── Sorting/
+│   │   │   └── Sorting.py
+│   │   ├── Searching/
+│   │   │   └── Searching.py
+│   │   └── Recursion/
+│   │       └── Recursion.py
+│   └── AdvancedTopicsMiscellaneous/
+│       ├── OOP/
+│       │   └── OOP.py
+│       ├── FileIO/
+│       │   └── FileIO.py
+│       ├── ExceptionHandling/
+│       │   └── ExceptionHandling.py
+│       ├── RegularExpressions/
+│       │   └── RegularExpressions.py
+│       ├── DateAndTime/
+│       │   └── DateAndTime.py
+│       ├── UnitTesting/
+│       │   └── UnitTesting.py
+│       └── WebScraping/
+│           └── WebScraping.py
+│   └── README.md
+│
+└── README.md
+```
 ## Contributing
 
 You are welcome to contribute to this project! If you want to add a new exercise or suggest improvements, please create a pull request.
