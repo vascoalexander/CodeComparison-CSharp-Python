@@ -268,7 +268,7 @@ Geben Sie eine Zahl ein: 9 falsch
 Die richtige Zahl war 7.  
 Sie haben das Spiel verloren.  
 
-[Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)
+[Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)  
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 # 2 Datenstrukturen
@@ -277,13 +277,34 @@ Sie haben das Spiel verloren.
 
 ### 2.2 Listen
 
+#### Übung 2.2.1
+Schreiben sie die Anweisung, um eine Liste von Zahlen von 1 bis 10 zu erstellen. Geben sie die Liste anschließend auf der Konsole aus.
+
+#### Übung 2.2.2
+Schreiben sie die Anweisung, um eine Liste von geraden Zahlen von 1 bis 10 zu erstellen. Geben sie die Liste anschließend auf der Konsole aus.
+
+#### Übung 2.2.3
+Schreiben Sie die Anweisungen, um eine Liste mit dem Wert `[6,8,3,4,1,12,2,9.2]` zu erstellen und ordnen Sie die Zahlen in aufsteigen- der Reihenfolge an. Das Programm soll die Liste nach der Sortierung der Zahlen anzeigen.
+
+#### Übung 2.2.4
+Schreiben Sie die Anweisungen, um eine Liste mit folgenden Werten zu erstellen `[3,2,2,1,9,1,2,3,7]` und zählen Sie die Anzahl der Vorkommen der Zahl 1 in der Liste.
+
+#### Übung 2.2.5
+Schreiben Sie die Anweisungen, um eine leere Liste zu erstellen und dann die Ganzzahlen **10, 25, 30, 45, 90** sowie die Zeichenketten **'ab'**, **'cd'** und **'ef'** zur Liste hinzuzufügen.
+
+#### Übung 2.2.6
+Schreiben Sie ein Programm, das eine Liste mit dem Wert `[1,2,3,4,5,6,7,8,9,10]` erstellt und dann eine neue Liste erstellt, die jedes dritte Element aus der ersten Liste enthält. In diesem Fall sollten wir am Ende die folgende Liste erhalten: `[1,4,7,10]`.
+
+#### Übung 2.2.7
+Schreiben Sie die Anweisungen, um eine Zeichenkette in aufsteigender alphabetischer Reihenfolge zu sortieren. Zum Testen nehmen wir die Zeichenkette **c = 'frankreich'** Das Programm sollte **'acefhiknrr'** zurückgeben.
+
 ### 2.3 Wörterbücher
 
 ### 2.4 Stack
 
 ### 2.5 Queues
 
-#### 2.6 Verknüpfte Listen
+### 2.6 Verknüpfte Listen
 
 
 # Nr. 3 Algorithmen
