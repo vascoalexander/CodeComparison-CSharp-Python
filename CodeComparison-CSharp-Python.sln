@@ -63,85 +63,95 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-2", "CSharp\Ba
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked Lists", "Linked Lists", "{D60B718D-EFA3-426E-A00F-A558CDBF7075}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-6-1", "CSharp\DataStructures\Linked Lists\Exercise_2-6-1\Exercise_2-6-1.csproj", "{498A3171-B5F3-44A5-8969-137BD59CFF34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-6-1", "CSharp\DataStructures\Linked Lists\Exercise_2-6-1\Exercise_2-6-1.csproj", "{498A3171-B5F3-44A5-8969-137BD59CFF34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-6-2", "CSharp\DataStructures\Linked Lists\Exercise_2-6-2\Exercise_2-6-2.csproj", "{1247A2DD-0756-4AA9-A723-78F716CC6EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-6-2", "CSharp\DataStructures\Linked Lists\Exercise_2-6-2\Exercise_2-6-2.csproj", "{1247A2DD-0756-4AA9-A723-78F716CC6EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-2-1", "CSharp\DataStructures\Lists\Exercise_2-2-1\Exercise_2-2-1.csproj", "{931F8BB6-2FED-4635-BCB7-B79998D81E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-2-1", "CSharp\DataStructures\Lists\Exercise_2-2-1\Exercise_2-2-1.csproj", "{931F8BB6-2FED-4635-BCB7-B79998D81E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-2-2", "CSharp\DataStructures\Lists\Exercise_2-2-2\Exercise_2-2-2.csproj", "{00F69718-47F3-450B-9172-35D27CC63F6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-2-2", "CSharp\DataStructures\Lists\Exercise_2-2-2\Exercise_2-2-2.csproj", "{00F69718-47F3-450B-9172-35D27CC63F6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-3-1", "CSharp\DataStructures\Dictionaries\Exercise_2-3-1\Exercise_2-3-1.csproj", "{21853016-812A-47F4-ABF5-4DC0E27E0D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-3-1", "CSharp\DataStructures\Dictionaries\Exercise_2-3-1\Exercise_2-3-1.csproj", "{21853016-812A-47F4-ABF5-4DC0E27E0D9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-3-2", "CSharp\DataStructures\Dictionaries\Exercise_2-3-2\Exercise_2-3-2.csproj", "{945EE0CF-D159-4320-8286-1E38AFDCFE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-3-2", "CSharp\DataStructures\Dictionaries\Exercise_2-3-2\Exercise_2-3-2.csproj", "{945EE0CF-D159-4320-8286-1E38AFDCFE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-1-1", "CSharp\DataStructures\Arrays\Exercise_2-1-1\Exercise_2-1-1.csproj", "{BE801F1A-ADF3-4BC7-B3C9-8014F9E8468B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-1-1", "CSharp\DataStructures\Arrays\Exercise_2-1-1\Exercise_2-1-1.csproj", "{BE801F1A-ADF3-4BC7-B3C9-8014F9E8468B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-1-2", "CSharp\DataStructures\Arrays\Exercise_2-1-2\Exercise_2-1-2.csproj", "{3B05D50E-04A6-43FB-A7A8-AE7E0413FE4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-1-2", "CSharp\DataStructures\Arrays\Exercise_2-1-2\Exercise_2-1-2.csproj", "{3B05D50E-04A6-43FB-A7A8-AE7E0413FE4C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queues", "Queues", "{57066F66-E3DB-463D-919E-2703C45CAC25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-5-1", "CSharp\DataStructures\Queues\Exercise_2-5-1\Exercise_2-5-1.csproj", "{C7793E98-9F7D-4B35-88AD-EF4C79A87A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-5-1", "CSharp\DataStructures\Queues\Exercise_2-5-1\Exercise_2-5-1.csproj", "{C7793E98-9F7D-4B35-88AD-EF4C79A87A2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-5-2", "CSharp\DataStructures\Queues\Exercise_2-5-2\Exercise_2-5-2.csproj", "{24AE069A-9FBB-43DC-B898-05DEBC8EE117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-5-2", "CSharp\DataStructures\Queues\Exercise_2-5-2\Exercise_2-5-2.csproj", "{24AE069A-9FBB-43DC-B898-05DEBC8EE117}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks", "Stacks", "{CC34B3F9-CB1D-4D1A-991E-7094A256CEB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-4-1", "CSharp\DataStructures\Stacks\Exercise_2-4-1\Exercise_2-4-1.csproj", "{74CE2F95-A551-4382-BC17-642F9685E4D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-4-1", "CSharp\DataStructures\Stacks\Exercise_2-4-1\Exercise_2-4-1.csproj", "{74CE2F95-A551-4382-BC17-642F9685E4D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_2-4-2", "CSharp\DataStructures\Stacks\Exercise_2-4-2\Exercise_2-4-2.csproj", "{D80F7C12-6C10-474B-B8CE-94B90E354DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2-4-2", "CSharp\DataStructures\Stacks\Exercise_2-4-2\Exercise_2-4-2.csproj", "{D80F7C12-6C10-474B-B8CE-94B90E354DA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-3-1", "CSharp\Algorithms\Recursion\Exercise_3-3-1\Exercise_3-3-1.csproj", "{B147C1F8-365E-4724-9A99-B86B751A0781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-3-1", "CSharp\Algorithms\Recursion\Exercise_3-3-1\Exercise_3-3-1.csproj", "{B147C1F8-365E-4724-9A99-B86B751A0781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-3-2", "CSharp\Algorithms\Recursion\Exercise_3-3-2\Exercise_3-3-2.csproj", "{F52148A7-41B2-4BBF-8479-5AE2CFF49E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-3-2", "CSharp\Algorithms\Recursion\Exercise_3-3-2\Exercise_3-3-2.csproj", "{F52148A7-41B2-4BBF-8479-5AE2CFF49E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-2-1", "CSharp\Algorithms\Searching\Exercise_3-2-1\Exercise_3-2-1.csproj", "{21ECF09A-D0D4-4D8D-B376-300272714ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-2-1", "CSharp\Algorithms\Searching\Exercise_3-2-1\Exercise_3-2-1.csproj", "{21ECF09A-D0D4-4D8D-B376-300272714ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-2-2", "CSharp\Algorithms\Searching\Exercise_3-2-2\Exercise_3-2-2.csproj", "{21830520-6F50-447E-8230-2D26866BB8F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-2-2", "CSharp\Algorithms\Searching\Exercise_3-2-2\Exercise_3-2-2.csproj", "{21830520-6F50-447E-8230-2D26866BB8F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-1-1", "CSharp\Algorithms\Sorting\Exercise_3-1-1\Exercise_3-1-1.csproj", "{31718577-51FD-4A62-930A-F717E0EE3A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-1-1", "CSharp\Algorithms\Sorting\Exercise_3-1-1\Exercise_3-1-1.csproj", "{31718577-51FD-4A62-930A-F717E0EE3A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-1-2", "CSharp\Algorithms\Sorting\Exercise_3-1-2\Exercise_3-1-2.csproj", "{5BC7937A-9134-4259-99B1-8EEED735ABCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-1-2", "CSharp\Algorithms\Sorting\Exercise_3-1-2\Exercise_3-1-2.csproj", "{5BC7937A-9134-4259-99B1-8EEED735ABCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-5-1", "CSharp\AdvancedTopics\DateAndTime\Exercise_4-5-1\Exercise_4-5-1.csproj", "{5BADF82A-0313-4647-8E2C-7FFD1C76D178}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-5-1", "CSharp\AdvancedTopics\DateAndTime\Exercise_4-5-1\Exercise_4-5-1.csproj", "{5BADF82A-0313-4647-8E2C-7FFD1C76D178}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "DynamicProgramming", "{D58FB4B6-3319-40D2-B3C6-5332782594CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphAlgorithms", "GraphAlgorithms", "{B2C6A73B-734A-4614-94AF-F8AFDB58B12A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-5-1", "CSharp\Algorithms\GraphAlgorithms\Exercise_3-5-1\Exercise_3-5-1.csproj", "{21E559D6-BFD1-4A8A-83B2-CF83D69A32AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-5-1", "CSharp\Algorithms\GraphAlgorithms\Exercise_3-5-1\Exercise_3-5-1.csproj", "{21E559D6-BFD1-4A8A-83B2-CF83D69A32AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-5-2", "CSharp\Algorithms\GraphAlgorithms\Exercise_3-5-2\Exercise_3-5-2.csproj", "{9E60D619-B0C6-45A2-AD36-D14CE58317B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-5-2", "CSharp\Algorithms\GraphAlgorithms\Exercise_3-5-2\Exercise_3-5-2.csproj", "{9E60D619-B0C6-45A2-AD36-D14CE58317B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-4-1", "CSharp\Algorithms\DynamicProgramming\Exercise_3-4-1\Exercise_3-4-1.csproj", "{32442F7F-AAF1-4249-AB8C-D24A29122EAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-4-1", "CSharp\Algorithms\DynamicProgramming\Exercise_3-4-1\Exercise_3-4-1.csproj", "{32442F7F-AAF1-4249-AB8C-D24A29122EAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3-4-2", "CSharp\Algorithms\DynamicProgramming\Exercise_3-4-2\Exercise_3-4-2.csproj", "{DDCBAB7F-3D1C-4150-9ED8-B1F0D79B3DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_3-4-2", "CSharp\Algorithms\DynamicProgramming\Exercise_3-4-2\Exercise_3-4-2.csproj", "{DDCBAB7F-3D1C-4150-9ED8-B1F0D79B3DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-5-2", "CSharp\AdvancedTopics\DateAndTime\Exercise_4-5-2\Exercise_4-5-2.csproj", "{C3515F3E-60CD-406B-AA2B-7D296D3EF8AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-5-2", "CSharp\AdvancedTopics\DateAndTime\Exercise_4-5-2\Exercise_4-5-2.csproj", "{C3515F3E-60CD-406B-AA2B-7D296D3EF8AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-3-1", "CSharp\AdvancedTopics\ExceptionHandling\Exercise_4-3-1\Exercise_4-3-1.csproj", "{26C01394-8DC5-4745-9963-FB26D9DD4883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-3-1", "CSharp\AdvancedTopics\ExceptionHandling\Exercise_4-3-1\Exercise_4-3-1.csproj", "{26C01394-8DC5-4745-9963-FB26D9DD4883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-3-2", "CSharp\AdvancedTopics\ExceptionHandling\Exercise_4-3-2\Exercise_4-3-2.csproj", "{D2D26934-31F0-48B1-AD50-060147D229F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-3-2", "CSharp\AdvancedTopics\ExceptionHandling\Exercise_4-3-2\Exercise_4-3-2.csproj", "{D2D26934-31F0-48B1-AD50-060147D229F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-2-1", "CSharp\AdvancedTopics\FileIO\Exercise_4-2-1\Exercise_4-2-1.csproj", "{C0364A43-A0ED-4EAE-86B4-1209A4A4C88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-2-1", "CSharp\AdvancedTopics\FileIO\Exercise_4-2-1\Exercise_4-2-1.csproj", "{C0364A43-A0ED-4EAE-86B4-1209A4A4C88E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-2-2", "CSharp\AdvancedTopics\FileIO\Exercise_4-2-2\Exercise_4-2-2.csproj", "{B4D647CB-34CE-4D3D-BEDC-BD6D2DCB8F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-2-2", "CSharp\AdvancedTopics\FileIO\Exercise_4-2-2\Exercise_4-2-2.csproj", "{B4D647CB-34CE-4D3D-BEDC-BD6D2DCB8F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-1-1", "CSharp\AdvancedTopics\OOP\Exercise_4-1-1\Exercise_4-1-1.csproj", "{DCC2CF6F-FB64-48A9-81B1-905E9AC04D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-1-1", "CSharp\AdvancedTopics\OOP\Exercise_4-1-1\Exercise_4-1-1.csproj", "{DCC2CF6F-FB64-48A9-81B1-905E9AC04D4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-1-2", "CSharp\AdvancedTopics\OOP\Exercise_4-1-2\Exercise_4-1-2.csproj", "{FCD7DA74-C450-46A7-BCD8-4D6ACE98527B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-1-2", "CSharp\AdvancedTopics\OOP\Exercise_4-1-2\Exercise_4-1-2.csproj", "{FCD7DA74-C450-46A7-BCD8-4D6ACE98527B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-4-1", "CSharp\AdvancedTopics\RegularExpressions\Exercise_4-4-1\Exercise_4-4-1.csproj", "{2C2A96EF-419F-457B-8B80-C5723597305B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-4-1", "CSharp\AdvancedTopics\RegularExpressions\Exercise_4-4-1\Exercise_4-4-1.csproj", "{2C2A96EF-419F-457B-8B80-C5723597305B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-4-2", "CSharp\AdvancedTopics\RegularExpressions\Exercise_4-4-2\Exercise_4-4-2.csproj", "{1E4CEDE8-6525-4C85-95FD-FEFC2621F71F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-4-2", "CSharp\AdvancedTopics\RegularExpressions\Exercise_4-4-2\Exercise_4-4-2.csproj", "{1E4CEDE8-6525-4C85-95FD-FEFC2621F71F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-6-1", "CSharp\AdvancedTopics\UnitTesting\Exercise_4-6-1\Exercise_4-6-1.csproj", "{50DDDA1C-0A71-4704-8A16-4490D6358E5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-6-1", "CSharp\AdvancedTopics\UnitTesting\Exercise_4-6-1\Exercise_4-6-1.csproj", "{50DDDA1C-0A71-4704-8A16-4490D6358E5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-6-2", "CSharp\AdvancedTopics\UnitTesting\Exercise_4-6-2\Exercise_4-6-2.csproj", "{62831E74-84D4-4A63-9583-50C7223C4E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-6-2", "CSharp\AdvancedTopics\UnitTesting\Exercise_4-6-2\Exercise_4-6-2.csproj", "{62831E74-84D4-4A63-9583-50C7223C4E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-7-1", "CSharp\AdvancedTopics\WebScraping\Exercise_4-7-1\Exercise_4-7-1.csproj", "{591E9184-EFD7-494A-A201-C4BECD9A68E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-7-1", "CSharp\AdvancedTopics\WebScraping\Exercise_4-7-1\Exercise_4-7-1.csproj", "{591E9184-EFD7-494A-A201-C4BECD9A68E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_4-7-2", "CSharp\AdvancedTopics\WebScraping\Exercise_4-7-2\Exercise_4-7-2.csproj", "{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4-7-2", "CSharp\AdvancedTopics\WebScraping\Exercise_4-7-2\Exercise_4-7-2.csproj", "{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-1-3", "CSharp\Basics\Variables\Exercise_1-1-3\Exercise_1-1-3.csproj", "{D385F07F-291C-4D1D-A6A1-6346A2886083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-1-5", "CSharp\Basics\Variables\Exercise_1-1-5\Exercise_1-1-5.csproj", "{EF3B2239-1982-45F9-92ED-6BD31C0CA712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-1-6", "CSharp\Basics\Variables\Exercise_1-1-6\Exercise_1-1-6.csproj", "{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-1-7", "CSharp\Basics\Variables\Exercise_1-1-7\Exercise_1-1-7.csproj", "{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-1-4", "CSharp\Basics\Variables\Exercise_1-1-4\Exercise_1-1-4.csproj", "{7B6A06A5-27C4-4BCA-9135-E0FC12185117}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +331,26 @@ Global
 		{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D385F07F-291C-4D1D-A6A1-6346A2886083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D385F07F-291C-4D1D-A6A1-6346A2886083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D385F07F-291C-4D1D-A6A1-6346A2886083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D385F07F-291C-4D1D-A6A1-6346A2886083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3B2239-1982-45F9-92ED-6BD31C0CA712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3B2239-1982-45F9-92ED-6BD31C0CA712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3B2239-1982-45F9-92ED-6BD31C0CA712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3B2239-1982-45F9-92ED-6BD31C0CA712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6A06A5-27C4-4BCA-9135-E0FC12185117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6A06A5-27C4-4BCA-9135-E0FC12185117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6A06A5-27C4-4BCA-9135-E0FC12185117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6A06A5-27C4-4BCA-9135-E0FC12185117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -395,6 +425,11 @@ Global
 		{62831E74-84D4-4A63-9583-50C7223C4E12} = {1A6666E6-1298-4230-950D-75F01E8D1068}
 		{591E9184-EFD7-494A-A201-C4BECD9A68E6} = {4DF0B43C-89BB-46E3-A491-9968C67D3782}
 		{DB059BA1-EC49-45FA-BAEC-B8B2FFA8C0B1} = {4DF0B43C-89BB-46E3-A491-9968C67D3782}
+		{D385F07F-291C-4D1D-A6A1-6346A2886083} = {F8E27295-252F-4168-B6AC-2DD766B436DB}
+		{EF3B2239-1982-45F9-92ED-6BD31C0CA712} = {F8E27295-252F-4168-B6AC-2DD766B436DB}
+		{DFCC1895-EB6A-4CEC-8AA1-B10654D87F9C} = {F8E27295-252F-4168-B6AC-2DD766B436DB}
+		{12E649C5-D422-4601-BCBA-3EDC8AE8B4E8} = {F8E27295-252F-4168-B6AC-2DD766B436DB}
+		{7B6A06A5-27C4-4BCA-9135-E0FC12185117} = {F8E27295-252F-4168-B6AC-2DD766B436DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E035459F-33E8-45C5-8302-BC0355DBB41C}
