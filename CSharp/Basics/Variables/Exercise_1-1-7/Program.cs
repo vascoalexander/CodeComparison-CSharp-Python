@@ -1,4 +1,5 @@
-﻿double x = 22;
+﻿// Exercise 1-1-7
+double x = 22;
 double y = 7;
 double number = x / y;
 Console.WriteLine(number);
