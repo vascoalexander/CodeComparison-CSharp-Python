@@ -1,4 +1,5 @@
-﻿Console.Write("Enter the amount to be converted: ");
+﻿// Exercise 1-2-8
+Console.Write("Enter the amount to be converted: ");
 double money = Convert.ToDouble(Console.ReadLine());
 Console.Write("Convert to? (e for euro or d for dm): ");
 string convertTo = Console.ReadLine();

@@ -13,5 +13,5 @@ elif portions > 3:
 m = (heatingTime * heatingTimeMod) // 60
 s = (heatingTime * heatingTimeMod) % 60
 
-print(f"Time to heat: {m:.0f} min {s:.0f} sek")
+print(f"Time to heat: {m:.0f} min {s:.0f} sec")
 

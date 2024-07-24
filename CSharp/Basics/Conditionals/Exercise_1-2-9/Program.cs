@@ -1,4 +1,5 @@
-﻿Console.Write("Enter the weight of your parcel (in kg): ");
+﻿// Exercise 1-2-9
+Console.Write("Enter the weight of your parcel (in kg): ");
 double weight = Convert.ToDouble(Console.ReadLine());
 double shipmentFee = 0.25;
 int extraWeight = (int)(weight - 10);
