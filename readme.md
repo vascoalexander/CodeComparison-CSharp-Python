@@ -6,6 +6,8 @@ This project contains a collection of simple coding exercises solved in both C# 
 [Exercises (ENG)](./Exercises_EN.md)  
 [Exercises (DE)](./Exercises_DE.md)
 
+[Project Progress](https://github.com/vascoalexander/CodeComparison-CSharp-Python/wiki)
+
 ## Usage
 
 ### Setting Up the C# Environment
