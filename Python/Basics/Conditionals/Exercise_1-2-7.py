@@ -1,3 +1,4 @@
+# Exercise 1-2-7
 weight = float(input('Enter the weight of your parcel(in kg): '))
 if weight <= 10.0:
     shipmentCost = 3.0

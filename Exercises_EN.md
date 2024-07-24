@@ -61,7 +61,7 @@ Write a program to calculate values from Euro to DM and vice versa. The user sho
 The formula you need for this is Euro = DM/1.95583 or DM = Euro * 1.95583
 
 #### Exercise 1.2.9
-Change the program from exercise 1.2.8 in a way, that from a weight of 20 kilos, 0.50 euros must be paid for every kilo over 10 kilos.
+Change the program from exercise 1.2.7 in a way, that from a weight of 20 kilos, 0.50 euros must be paid for every kilo over 10 kilos.
 
 Weight of the shipment: 25   
 Shipping costs: 10.50 euros  

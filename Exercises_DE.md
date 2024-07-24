@@ -59,7 +59,7 @@ Die Formel die Sie dazu benötigen sind:
 Euro = DM/1,95583 bzw.  DM = Euro * 1,95583  
 
 #### Übung 1.2.9
-Verändern Sie das Programm aus Übung 1.2.8 so, dass ab einem Gewicht von 20 Kilo 0.50 Euro für jedes Kilo über 10 Kilo zu bezahlen sind.
+Verändern Sie das Programm aus Übung 1.2.7 so, dass ab einem Gewicht von 20 Kilo 0.50 Euro für jedes Kilo über 10 Kilo zu bezahlen sind.
 
 Gewicht der Sendung: 25  
 Versandkosten: 10,50 Euro  

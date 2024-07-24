@@ -1,3 +1,4 @@
+# Exercise 1-2-8
 money = float(input('Enter the amount to be converted: '))
 convertTo = input('Convert to? (e for euro or d for dm)')
 if convertTo == 'e' or convertTo == 'E':
