@@ -283,7 +283,7 @@ The list to be considered in this exercise is:
 The list 'fruits' that we should have at the end of the program (after sorting):
 'fruechte' = [(“peach”,2), (“banana”,8), (“kiwi”,9), (“miller”,12), (“apple”,15)]
 
-[What is a tuple?](https://www.w3schools.com/python/python_tuples.asp){:target=”_blank”}
+[What is a tuple?](https://www.w3schools.com/python/python_tuples.asp)
 
 #### Exercise 2.2.10
 Write a program to reverse a character string. The program should reverse the variable ch, which contains the sentence 'Hello everyone'.
