@@ -223,8 +223,7 @@ for i in [2,5,3,1,4]:
 ```
 
 #### Übung 1.3.17
-Schreiben Sie ein Programm, mit dem Sie die Quersumme einer Zahl
-unter Zuhilfenahme einer while-Schleife berechnen können. Hinweis: Zur Berechnung der Quersumme benötigen Sie den Modulo-Operator und die ganzzahlige Division.
+Schreiben Sie ein Programm, mit dem Sie die Quersumme einer Zahl unter Zuhilfenahme einer while-Schleife berechnen können. Hinweis: Zur Berechnung der Quersumme benötigen Sie den Modulo-Operator und die ganzzahlige Division.
 
 #### Übung 1.3.18
 Ein Kunde schuldet seiner Kreditkartengesellschaft 1.000,00 Euro. Die Gesellschaft berechnet ihm monatlich 1,5% Zinsen für den gewährten Kredit. Er entscheidet sich, die Kreditkarte nicht mehr zu verwenden und seinen Kredit monatlich mit einem bestimmten Betrag **n** zurückzuzahlen. Schreiben Sie ein Programm, das nach dem monatlichen Rückzahlungsbetrag fragt und dann den Saldo und den Gesamtbetrag der Zahlungen für jeden Monat ausgibt, bis der Saldo 0 oder weniger beträgt.
@@ -270,6 +269,22 @@ Sie haben das Spiel verloren.
 
 [Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)  
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
+
+### 1.4 Functions
+[Functions - Python](https://www.geeksforgeeks.org/python-functions/)
+[Functions - C#](https://www.w3schools.com/cs/cs_methods.php)
+**!! In C# Functions exist only as Methods inside of Classes !!**
+
+### 1.5 Miscellaneous
+
+#### 1.5.1
+Schhreiben sie ein programm, das eine Dezimalzahl auf 2 Stellen nach dem Komma abschneidet. Beispiel wenn wir die Dezimalzahl 187.632587 verwenden, sollte das Programm 187.63 anzeigen.
+
+#### 1.5.2
+Schreiben Sie ein Programm das die 'Dateierweiterung' einer Datei ermittelt. Der Name der Datei ist als String datei = 'image.png' gegeben.
+
+#### 1.5.3
+Schreiben Sie ein Programm, das die Ausführungszeit eines Skripts berechnet. Nehmen Sie eines der Programme die Sie zuvor entwickelt haben. Das Programm soll am Ende die die Ausführungszeit anzeigen.
 
 # 2 Datenstrukturen
 
@@ -342,7 +357,24 @@ Fügen Sie mit einem der Programme, die Sie in diesem Kapitel geschrieben haben,
 
 [Slicing](https://www.freecodecamp.org/news/slicing-and-indexing-in-python/)
 
+#### Übung 2.2.15
+Schreiben sie ein Programm, das ein Element aus einer Liste entfernt. Gegeben ist die Liste zahlen = [1,2,3,4,5] und wir möchten die Zahl 1 entfernen.
+
+#### Übung 2.2.16
+Schreiben Sie ein Programm, das die Elemente einer Liste zufällig mischt.
+Elemente = [3,6,8,7,2,'s','ch','d']
+
 ### 2.3 Wörterbücher
+
+#### Übung 2.3.1
+Schreiben Sie ein Programm, das den Wert der Schlüssel 'Apfel' und 'Banane' des Wörterbuchs {'Apfel': 3, 'Banane': 7, 'Kiwi': 1} auf der Konsole anzeigt.
+
+#### Übung 2.3.2
+Schreiben Sie ein Programm, das die Werte des fogenden Wörterbuchs summiert:
+{'Apfel': 15, 'Banane': 8, 'Fräser': 12, 'Kiwi': 9, 'Pfirsich': 2}
+
+#### Übung 2.3.3
+
 
 ### 2.4 Stack
 
