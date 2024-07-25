@@ -340,6 +340,8 @@ Fügen Sie mit einem der Programme, die Sie in diesem Kapitel geschrieben haben,
 - Drucke die Nachricht: Die drei Einträge in der Mitte der Liste sind: ..: ...
 - Drucken Sie die Nachricht: Die letzten drei Einträge in der Liste sind: ..: ...
 
+[Slicing](https://www.freecodecamp.org/news/slicing-and-indexing-in-python/)
+
 ### 2.3 Wörterbücher
 
 ### 2.4 Stack
