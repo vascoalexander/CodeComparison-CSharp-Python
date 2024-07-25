@@ -246,6 +246,7 @@ Then calculate the new balance by adding the interest and subtracting the amount
 
 #### Exercise 1.3.19
 Write a program that outputs the following numbers to the console:
+
 ![image](./img/exercise_1-3-19.png)
 
 #### Exercise 1.3.20
