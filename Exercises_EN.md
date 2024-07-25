@@ -248,6 +248,69 @@ Then calculate the new balance by adding the interest and subtracting the amount
 
 ### 2.2 Lists
 
+#### Exercise 2.2.1
+Write the instruction to create a list of numbers from 1 to 10. Then output the list to the console.
+
+#### Exercise 2.2.2
+Write the instruction to create a list of even numbers from 1 to 10. Then output the list to the console.
+
+#### Exercise 2.2.3
+Write the instructions to create a list with the value `[6,8,3,4,1,12,2,9.2]` and arrange the numbers in ascending order. The program should display the list according to the sorting of the numbers.
+
+#### Exercise 2.2.4
+Write the instructions to create a list with the following values `[3,2,2,1,9,1,2,3,7]` and count the number of occurrences of the number 1 in the list.
+
+#### Exercise 2.2.5
+Write the instructions to create an empty list and then add the integers **10, 25, 30, 45, 90** and the strings **'ab'**, **'cd'** and **'ef'** to the list.
+
+#### Exercise 2.2.6
+Write a program that creates a list with the value `[1,2,3,4,5,6,7,8,9,10]` and then creates a new list that contains every third element from the first list. In this case, we should end up with the following list: `[1,4,7,10]`.
+
+#### Exercise 2.2.7
+Write the instructions to sort a string in ascending alphabetical order. For testing, we take the string **c = 'france'** The program should return **'acefhiknrr'**.
+
+#### Exercise 2.2.8
+Write a program that contains two lists listOne and listeZwei and returns a list listTwo that contains the common elements between listeEins and listeZwei.
+
+listOne = [9, 8, 7, 14, 3, 2, “a” “p” “hello”, “b”]
+listTwo = [“b”, 1, 9.2, 6, 3, 9, “p”]
+
+#### Exercise 2.2.9
+Write a program to sort a list of tuples in ascending order based on the second element of the tuple.
+
+The list to be considered in this exercise is:
+'fruit' = [('apple', 15), ('banana', 8), ('miller' 12), ('kiwi', 9), ('peach'; 2)]
+The list 'fruits' that we should have at the end of the program (after sorting):
+'fruechte' = [(“peach”,2), (“banana”,8), (“kiwi”,9), (“miller”,12), (“apple”,15)]
+
+[What is a tuple?](https://www.w3schools.com/python/python_tuples.asp)
+
+#### Exercise 2.2.10
+Write a program to reverse a character string. The program should reverse the variable ch, which contains the sentence 'Hello everyone'.
+
+#### Exercise 2.2.11
+Write a program to create a list of 20 random numbers from a set (1-100).
+
+You need the Random module with the [randint()](https://www.w3schools.com/python/ref_random_randint.asp) function to solve this task.
+
+```python
+from random import randint
+```
+
+#### Exercise 2.2.12
+Think of at least three kinds of your favorite pizza. Store these pizza names in a list, and then use a for loop to print the name of each pizza to the console.
+
+a) modify your code to print a whole sentence using the name of the pizza
+
+#### Exercise 2.2.13
+A number raised to the thrid power is called a cube. For example, the cube of 2 is written as 2**3 in Python. Make a list of the first 10 cubes (that is, the cube of each integer from 1 through 10), and use a for loop to print out the value of each cube.
+
+#### Exercise 2.2.14
+Using one of the programs you wrote from this chapter, add several lines of code to the end of the program that do the following:
+- Print the message: The first three items in the list are: ...
+- Print the message: Three items form the middle of the list are: ...
+- Print the message: The last three items in the list are: ...
+
 ### 2.3 Dictionaries
 
 ### 2.4 Stacks

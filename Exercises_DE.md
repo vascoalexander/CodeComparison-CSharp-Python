@@ -298,6 +298,48 @@ Schreiben Sie ein Programm, das eine Liste mit dem Wert `[1,2,3,4,5,6,7,8,9,10]`
 #### Übung 2.2.7
 Schreiben Sie die Anweisungen, um eine Zeichenkette in aufsteigender alphabetischer Reihenfolge zu sortieren. Zum Testen nehmen wir die Zeichenkette **c = 'frankreich'** Das Programm sollte **'acefhiknrr'** zurückgeben.
 
+#### Übung 2.2.8
+Schreiben Sie ein Programm, das zwei Listen listeEins und listeZwei enthält und eine Liste listeDrei zurückgibt, die die gemeinsamen Elemente zwischen listeEins und listeZwei enthält.
+
+listeEins = [9, 8, 7, 14, 3, 2, "a" "p" "hallo", "b"]
+listeZwei = ["b", 1, 9.2, 6, 3, 9, "p"]
+
+#### Übung 2.2.9
+Schreiben Sie ein Programm, um eine Liste von Tupeln basierend auf dem zweiten Element des Tupels in aufsteigender Reihenfolge zu sortieren.
+
+Die zu betrachtende Liste in dieser Übung ist:
+fruechte = [("Apfel", 15), ("Banane", 8), ("Fräser" 12), ("Kiwi", 9), ("Pfirsich"; 2)]
+Die Liste 'fruechte', die wir am Ende des Programms haben sollten (nach der Sortierung):
+fruechte = [("Pfirsich",2), ("Banane",8), ("Kiwi",9), ("Fräser",12), ("Apfel",15)]
+
+[Was ist ein Tupel?](https://www.w3schools.com/python/python_tuples.asp)
+
+#### Übung 2.2.10
+Schreiben Sie ein Programm, um eine Zeichenkette umzukehren. Das Programm soll die Variable ch umkehren, die den Satz 'Hallo alle zusammen' enthält.
+
+#### Übung 2.2.11
+Schreiben Sie ein Programm, das eine Liste mit 20 Zufallszahlen aus einer Menge (1-100) zu erstellen.
+
+Sie brauchen das Modul Random mit der [randint()](https://www.w3schools.com/python/ref_random_randint.asp) Funktion um diese Aufgabe zu lösen.
+
+```python
+from random import randint
+```
+
+#### Übung 2.2.12
+Denken Sie an mindestens drei Sorten Ihrer Lieblingspizza. Speichern Sie diese Pizzanamen in einer Liste, und geben Sie dann in einer for-Schleife den Namen jeder Pizza auf der Konsole aus.
+
+a) Ändern Sie Ihren Code so, dass ein ganzer Satz mit dem Namen der Pizza ausgegeben wird.
+
+#### Übung 2.2.13
+Eine Zahl, die mit der dritten Potenz erhöht wird, nennt man einen Würfel. Zum Beispiel wird der Würfel von 2 in Python als 2**3 geschrieben. Erstellen Sie eine Liste der ersten 10 Würfel (d.h. der Würfel jeder ganzen Zahl von 1 bis 10), und verwenden Sie eine for-Schleife, um den Wert jedes Würfels auszugeben.
+
+#### Übung 2.2.14
+Fügen Sie mit einem der Programme, die Sie in diesem Kapitel geschrieben haben, am Ende des Programms mehrere Codezeilen ein, die Folgendes bewirken:
+- Geben Sie die Meldung aus: Die ersten drei Elemente in der Liste sind: ...
+- Drucke die Nachricht: Die drei Einträge in der Mitte der Liste sind: ..: ...
+- Drucken Sie die Nachricht: Die letzten drei Einträge in der Liste sind: ..: ...
+
 ### 2.3 Wörterbücher
 
 ### 2.4 Stack
