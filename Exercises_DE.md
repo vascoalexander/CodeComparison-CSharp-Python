@@ -250,8 +250,8 @@ Berechnen Sie dann den neuen Saldo, indem Sie die Zinsen addieren
 und den zurückgezahlten Betrag subtrahieren.  
 
 #### Übung 1.3.19
-Schreiben Sie ein Programm, das die folgenden Zahlen auf der Konsole ausgibt:
-![image](./img/exercise_1-3-19.png)#### Übung 1.3.19
+Schreiben Sie ein Programm, das die folgenden Zahlen auf der Konsole ausgibt: 
+![image](./img/exercise_1-3-19.png)
 
 #### Übung 1.3.20
 Schreiben Sie ein Programm, das ein Ratespiel implementiert:
