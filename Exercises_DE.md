@@ -283,6 +283,62 @@ Sie haben das Spiel verloren.
 
 **!! In C# Functions exist only as Methods inside of Classes !!**
 
+#### Übung 1.4.1
+Schreiben Sie eine Funktion mit dem Namen mathTest(a ,b ,x), die 3 Ganzzahlen a, b und x als Parameter entgegennimmt und das Ergebnis der folgenden Funktion zurückgibt:
+```f(a, b, x) = a*(X**3) + 2*a*(x**2) + b```
+
+Überprüfung: 
+```python
+>>> mathTest(3, 0, 1)
+9
+>>> mathTest(0, 2, 2)
+2
+```
+
+#### Übung 1.4.2
+Schreiben Sie eine Funktion die 2 Parameter entgegenimmt. Der erste Paramter ist eine Liste mit Elementen. Der zweite Parameter ist eine Element. Es soll überprüft werden ob das Element in der Liste vorhanden ist.
+
+Überprüfung: 
+```python
+>>> elementInList([1,2,3,4,5,6], 2)
+True
+>>> elementInList([3,6,9,7,11], -1)
+False
+```
+
+#### Übung 1.4.3
+Schreiben Sie eine Funktion mit welcher die Summe aller Elemente in einer Liste brechnet wird.
+
+Überprüfung: 
+```python
+>>> sumOfElements([1,2,3,4,5,6])
+21
+>>> sumOfElements([3,6,9,7,11])
+36
+```
+
+#### Übung 1.4.4
+Schreiben Sie eine Funktion removeDuplicates(aList), die eine Listen von Ganzzahlen als Parameter entgegennimmt und die Liste ohne Duplikate in aufsteigender Reihenfolge zurückgibt.
+
+Überprüfung:
+```python
+>>> removeDuplicates([0,3,5,7,3,5,1,-1])
+[-1,0,1,3,5,7]
+>>> removeDuplicates([0,5,9,10,3,2,1,-3])
+[-3,0,1,2,3,5,9,10]
+```
+#### Übung 1.4.5
+Schreiben Sie eine Funktion maximal(aList), die eine Liste von Ganzzahlen als Parameter entgegennimmt und den größten Wert zurückgibt.
+Hinweis: Es darf keine bestehnde Funktion max() genutzt werden für die Lösung der Aufgabe.
+
+Überprüfung
+```python
+>>> maximal([-9,2,4,1,8])
+8
+>>> maximal([-3,1,7,6,2,3])
+7
+```
+
 ### 1.5 Sonstiges
 
 #### Übung 1.5.1
@@ -390,8 +446,16 @@ Schreiben Sie ein Programm, das den Wert der Schlüssel 'Apfel' und 'Banane' des
 Schreiben Sie ein Programm, das die Werte des fogenden Wörterbuchs summiert:
 {'Apfel': 15, 'Banane': 8, 'Fräser': 12, 'Kiwi': 9, 'Pfirsich': 2}
 
-#### Übung 2.3.3
+#### Übung 2.3.3: 
+Hinzufügen von Elementen zu einem Wörterbuch. Die Funktion addToDicitonary (elementKey, elementValue, d) nimmt 3 Parameter entgegen: ein Wörterbuch **d**, einen Schlüssel **elementKey** und den zugehörigen Wert **elementValue**. Die Funktion soll diesen Schlüssel und seinen Wert dem Wörterbuch d hinzufügen. Schließlich soll die Funktion das Wörterbuch d mit dem neuen Schlüssel zurückgeben.
 
+Überprüfung:
+```python
+>> addToDictionary("baptiste", 29, {"julien": 14, "laurent":31})  
+("julien": 14, "laurent" : 31, "baptiste": 29}  
+>> addToDictionary("Gewicht", 65.3, {})  
+("Gewicht": 65.3}  
+```
 
 ### 2.4 Stack
 

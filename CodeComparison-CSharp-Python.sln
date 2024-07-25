@@ -163,17 +163,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-6", "CSharp\Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-7", "CSharp\Basics\Conditionals\Exercise_1-2-7\Exercise_1-2-7.csproj", "{3884B3E2-E9FC-4E7A-9878-3D25774B582A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-8", "CSharp\Basics\Conditionals\Exercise_1-2-8\Exercise_1-2-8.csproj", "{09912BAA-7490-44B1-AD49-429D47AF8F5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-8", "CSharp\Basics\Conditionals\Exercise_1-2-8\Exercise_1-2-8.csproj", "{09912BAA-7490-44B1-AD49-429D47AF8F5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-9", "CSharp\Basics\Conditionals\Exercise_1-2-9\Exercise_1-2-9.csproj", "{CDCD0DAC-D9B1-438C-8253-0E297AB21B13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-9", "CSharp\Basics\Conditionals\Exercise_1-2-9\Exercise_1-2-9.csproj", "{CDCD0DAC-D9B1-438C-8253-0E297AB21B13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-10", "CSharp\Basics\Conditionals\Exercise_1-2-10\Exercise_1-2-10.csproj", "{27831DCF-C3B3-44A7-B86A-B38262F2D99C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-10", "CSharp\Basics\Conditionals\Exercise_1-2-10\Exercise_1-2-10.csproj", "{27831DCF-C3B3-44A7-B86A-B38262F2D99C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-11", "CSharp\Basics\Conditionals\Exercise_1-2-11\Exercise_1-2-11.csproj", "{1A4FB522-B0C6-478B-BF1B-7F4B5D514FA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-11", "CSharp\Basics\Conditionals\Exercise_1-2-11\Exercise_1-2-11.csproj", "{1A4FB522-B0C6-478B-BF1B-7F4B5D514FA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-12", "CSharp\Basics\Conditionals\Exercise_1-2-12\Exercise_1-2-12.csproj", "{5E00ACF6-9077-4462-B6E4-337AEB74CC35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-12", "CSharp\Basics\Conditionals\Exercise_1-2-12\Exercise_1-2-12.csproj", "{5E00ACF6-9077-4462-B6E4-337AEB74CC35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-2-13", "CSharp\Basics\Conditionals\Exercise_1-2-13\Exercise_1-2-13.csproj", "{62692235-574C-4611-9C7E-695886B8BD9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1-2-13", "CSharp\Basics\Conditionals\Exercise_1-2-13\Exercise_1-2-13.csproj", "{62692235-574C-4611-9C7E-695886B8BD9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{8B6DBBAE-E242-4899-978F-E58C16AC21F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miscellaneous", "Miscellaneous", "{44775C05-83A1-4258-8F7E-2B411C1A505B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-4-1", "CSharp\Basics\Functions\Exercise_1-4-1\Exercise_1-4-1.csproj", "{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-4-2", "CSharp\Basics\Functions\Exercise_1-4-2\Exercise_1-4-2.csproj", "{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-5-1", "CSharp\Basics\Miscellaneous\Exercise_1-5-1\Exercise_1-5-1.csproj", "{8BEA0BC4-89C3-4845-8004-DC43AADA9908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1-5-2", "CSharp\Basics\Miscellaneous\Exercise_1-5-2\Exercise_1-5-2.csproj", "{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -417,6 +429,22 @@ Global
 		{62692235-574C-4611-9C7E-695886B8BD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62692235-574C-4611-9C7E-695886B8BD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62692235-574C-4611-9C7E-695886B8BD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEA0BC4-89C3-4845-8004-DC43AADA9908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEA0BC4-89C3-4845-8004-DC43AADA9908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEA0BC4-89C3-4845-8004-DC43AADA9908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEA0BC4-89C3-4845-8004-DC43AADA9908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -507,6 +535,12 @@ Global
 		{1A4FB522-B0C6-478B-BF1B-7F4B5D514FA5} = {BC1B0CBA-9EC0-4D91-A816-6193728427B7}
 		{5E00ACF6-9077-4462-B6E4-337AEB74CC35} = {BC1B0CBA-9EC0-4D91-A816-6193728427B7}
 		{62692235-574C-4611-9C7E-695886B8BD9E} = {BC1B0CBA-9EC0-4D91-A816-6193728427B7}
+		{8B6DBBAE-E242-4899-978F-E58C16AC21F6} = {E09631D7-B8BA-474B-84CA-D55F3DB26019}
+		{44775C05-83A1-4258-8F7E-2B411C1A505B} = {E09631D7-B8BA-474B-84CA-D55F3DB26019}
+		{C1FA5EE4-F705-4DA6-9B99-3585CEAC6271} = {8B6DBBAE-E242-4899-978F-E58C16AC21F6}
+		{5D5ADE2A-FDE1-4FFB-A136-16F61BBC4E0F} = {8B6DBBAE-E242-4899-978F-E58C16AC21F6}
+		{8BEA0BC4-89C3-4845-8004-DC43AADA9908} = {44775C05-83A1-4258-8F7E-2B411C1A505B}
+		{7CCC4052-3BBF-4D59-8D27-BEC9AD7B8E27} = {44775C05-83A1-4258-8F7E-2B411C1A505B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E035459F-33E8-45C5-8302-BC0355DBB41C}

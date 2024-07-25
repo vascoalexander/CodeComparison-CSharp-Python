@@ -278,6 +278,63 @@ You have lost the game.
 
 **!! In C# Functions exist only as Methods inside of Classes !!**
 
+#### Exercise 1.4.1
+Write a function called mathTest(a ,b ,x) that takes 3 integers a, b and x as parameters and returns the result of the following function:
+```f(a, b, x) = a*(X**3) + 2*a*(x**2) + b```
+
+Verification: 
+```python
+>>> mathTest(3, 0, 1)
+9
+>>> mathTest(0, 2, 2)
+2
+```
+
+#### Exercise 1.4.2
+Write a function that takes 2 parameters. The first parameter is a list of elements. The second parameter is an element. The function should check whether the element is present in the list or not.
+
+Verification:
+```python
+>>> elementInList([1,2,3,4,5,6], 2)
+True
+>>> elementInList([3,6,9,7,11], -1)
+False
+```
+
+#### Exercise 1.4.3
+Write a function that calculates the sum of all elements in a list.
+
+Verification: 
+```python
+>>> sumOfElements([1,2,3,4,5,6])
+21
+>>> sumOfElements([3,6,9,7,11])
+36
+```
+
+#### Exercise 1.4.4
+Write a function removeDuplicates(aList), that takes a list of integers as parameters and returns the list without duplicates in ascending order.
+
+Verification:
+```python
+>>> removeDuplicates([0,3,5,7,3,5,1,-1])
+[-1,0,1,3,5,7]
+>>> removeDuplicates([0,5,9,10,3,2,1,-3])
+[-3,0,1,2,3,5,9,10]
+```
+
+#### Exercise 1.4.5
+Write a function maximal(aList) that takes a list of integers as parameter and returns the largest value.
+Note: No existing max() function may be used to solve the task.
+
+Verification:
+```python
+>>> maximal([-9,2,4,1,8])
+8
+>>> maximal([-3,1,7,6,2,3])
+7
+```
+
 ### 1.5 Miscellaneous
 
 #### Exercise 1.5.1
@@ -382,6 +439,17 @@ Write a program that displays the value of the keys 'apple' and 'banana' of the 
 #### Exercise 2.3.2
 Write a program that sums the values of the following dictionary:
 {'apple': 15, 'banana': 8, 'cutter': 12, 'kiwi': 9, 'peach': 2}
+
+#### Exercise 2.3.3: 
+Adding elements to a dictionary. The function addToDicitonary (elementKey, elementValue, d) takes 3 parameters: a dictionary **d**, a key **elementKey** and the corresponding value **elementValue**. The function should add this key and its value to the dictionary d. Finally, the function should return the dictionary d with the new key.
+
+Verification:
+```python
+>> addToDictionary("baptiste", 29, {"julien": 14, "laurent":31})  
+("julien": 14, "laurent" : 31, "baptiste": 29}  
+>> addToDictionary("Gewicht", 65.3, {})  
+("Gewicht": 65.3}  
+```
 
 ### 2.4 Stacks
 
