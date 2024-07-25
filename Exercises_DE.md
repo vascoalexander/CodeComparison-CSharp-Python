@@ -20,6 +20,8 @@ Schreiben Sie ein Programm, das zwei Zahlen vom Benutzer annimmt, die Zahlen add
 
 #### Übung 1.1.6
 Schreiben Sie ein Programm, das zwei Zahlen vom Benutzer annimmt, die Zahlen dividiert und das Ergebnis auf der Konsole anzeigt. Was passiert, wenn der Divisor 0 ist?
+a) Benutze Integer Division
+b) Benutze Gleitkommazahlen Division
 
 #### Übung 1.1.7
 Schreiben Sie ein Programm, das zwei Gleitkommazahlen x = 22.0 und y = 7.0 dividiert und das Ergebnis auf der Konsole anzeigt. Verwenden Sie den Modulo-Operator, um das Ergebnis auf drei Dezimalstellen genau zu formatieren.
@@ -248,6 +250,10 @@ Berechnen Sie dann den neuen Saldo, indem Sie die Zinsen addieren
 und den zurückgezahlten Betrag subtrahieren.  
 
 #### Übung 1.3.19
+Schreiben Sie ein Programm, das die folgenden Zahlen auf der Konsole ausgibt:
+![image](./img/exercise_1-3-19.png)#### Übung 1.3.19
+
+#### Übung 1.3.20
 Schreiben Sie ein Programm, das ein Ratespiel implementiert:
 Das Programm wählt eine Zufallszahl zwischen 1 und 10 aus. Jetzt hat der Spieler drei Versuche. Sobald der Spieler die richtige Zahl eingibt, gibt das Programm eine Meldung über den Gewinn des Spiels aus und endet. Wenn der Spieler nach drei Versuchen die Zahl nicht erraten hat, gibt das Programm eine Meldung über den Misserfolg aus und endet. Sie benötigen dazu die import-Anweisung mit random, und die Funktion random.randint(1, 10) die eine Zufallszahl zwischen 1 und <= 10 erzeugt:
 
@@ -271,19 +277,27 @@ Sie haben das Spiel verloren.
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 ### 1.4 Functions
-[Functions - Python](https://www.geeksforgeeks.org/python-functions/)
-[Functions - C#](https://www.w3schools.com/cs/cs_methods.php)
+[Funktionen - Python](https://www.geeksforgeeks.org/python-functions/)
+[Funktionen - C#](https://www.w3schools.com/cs/cs_methods.php)
 **!! In C# Functions exist only as Methods inside of Classes !!**
 
-### 1.5 Miscellaneous
+### 1.5 Sonstiges
 
-#### 1.5.1
+#### Übung 1.5.1
 Schhreiben sie ein programm, das eine Dezimalzahl auf 2 Stellen nach dem Komma abschneidet. Beispiel wenn wir die Dezimalzahl 187.632587 verwenden, sollte das Programm 187.63 anzeigen.
+Hinweis: Sie können den Modulo Operator benutzen oder fortgeschrittene Formatierungsmöglichkeiten.
+[Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)
+[Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
 
-#### 1.5.2
-Schreiben Sie ein Programm das die 'Dateierweiterung' einer Datei ermittelt. Der Name der Datei ist als String datei = 'image.png' gegeben.
+#### Übung 1.5.2
+Schreiben Sie ein Programm, das den Zeichenketten-Text "Ich heiße meinName und bin alter Jahre alt. Ich lerne die Programmiersprache sprache' formatiert.
+Das Programm soll dieser Zeichenkette den Inhalt der folgenden Variablen zuweisen: meinName = "Julien", alter = 32, sprache = "Python"
+Das Programm wird auf der Konsole folgenden Text anzeigen: "Ich heiße Julien und bin 32 Jahre alt. Ich lerne die Programmiersprache Python."
 
-#### 1.5.3
+#### Übung 1.5.3
+Schreiben Sie ein Programm das die 'Dateierweiterung' einer Datei ermittelt. Der Name der Datei ist als String datei = 'image.png' gegeben. Die Konsole soll '.png' ausgeben.
+
+#### Übung 1.5.4
 Schreiben Sie ein Programm, das die Ausführungszeit eines Skripts berechnet. Nehmen Sie eines der Programme die Sie zuvor entwickelt haben. Das Programm soll am Ende die die Ausführungszeit anzeigen.
 
 # 2 Datenstrukturen
