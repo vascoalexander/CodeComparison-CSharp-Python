@@ -288,6 +288,7 @@ Sie haben das Spiel verloren.
 #### Übung 1.5.1
 Schhreiben sie ein programm, das eine Dezimalzahl auf 2 Stellen nach dem Komma abschneidet. Beispiel wenn wir die Dezimalzahl 187.632587 verwenden, sollte das Programm 187.63 anzeigen.
 Hinweis: Sie können den Modulo Operator benutzen oder fortgeschrittene Formatierungsmöglichkeiten.
+
 [Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)  
 [Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)  
 
