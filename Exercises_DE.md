@@ -278,8 +278,9 @@ Sie haben das Spiel verloren.
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 ### 1.4 Functions
-[Funktionen - Python](https://www.geeksforgeeks.org/python-functions/)
-[Funktionen - C#](https://www.w3schools.com/cs/cs_methods.php)
+[Funktionen - Python](https://www.geeksforgeeks.org/python-functions/)  
+[Funktionen - C#](https://www.w3schools.com/cs/cs_methods.php)  
+
 **!! In C# Functions exist only as Methods inside of Classes !!**
 
 ### 1.5 Sonstiges
@@ -287,8 +288,8 @@ Sie haben das Spiel verloren.
 #### Übung 1.5.1
 Schhreiben sie ein programm, das eine Dezimalzahl auf 2 Stellen nach dem Komma abschneidet. Beispiel wenn wir die Dezimalzahl 187.632587 verwenden, sollte das Programm 187.63 anzeigen.
 Hinweis: Sie können den Modulo Operator benutzen oder fortgeschrittene Formatierungsmöglichkeiten.
-[Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)
-[Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
+[Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)  
+[Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)  
 
 #### Übung 1.5.2
 Schreiben Sie ein Programm, das den Zeichenketten-Text "Ich heiße meinName und bin alter Jahre alt. Ich lerne die Programmiersprache sprache' formatiert.

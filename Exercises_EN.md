@@ -273,8 +273,9 @@ You have lost the game.
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
 ### 1.4 Functions
-[Functions - Python](https://www.geeksforgeeks.org/python-functions/)
-[Functions - C#](https://www.w3schools.com/cs/cs_methods.php)
+[Functions - Python](https://www.geeksforgeeks.org/python-functions/)  
+[Functions - C#](https://www.w3schools.com/cs/cs_methods.php)  
+
 **!! In C# Functions exist only as Methods inside of Classes !!**
 
 ### 1.5 Miscellaneous
@@ -283,8 +284,8 @@ You have lost the game.
 Write a program that truncates a decimal number to 2 decimal places. For example, if we use the decimal number 187.632587, the program should display 187.63.
 Hint: You can do it with the Modulo Operator or by using advanced formating options.
 
-[Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)
-[Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
+[Formatierung mit Python](https://docs.python.org/3/tutorial/inputoutput.html)  
+[Formatierung mit C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)  
 
 #### Exercise 1.5.2
 Write a program that formats the string 'My name is myName and I am age years old. I am learning the programming language language'. The program should assign the content of the following variables to this string: myName = “Julien”, age = 32, language = “Python”. The program will display the following text on the console: “My name is Julien and I am 32 years old. I am learning the Python programming language.”
