@@ -492,7 +492,7 @@ Schreiben Sie eine Funktion mit welcher die Summe aller Elemente in einer Liste 
 ```
 
 #### Übung 1.4.4
-Schreiben Sie eine Funktion removeDuplicates(intList), die eine Listen von Ganzzahlen als Parameter entgegennimmt und die Liste ohne Duplikate in aufsteigender Reihenfolge zurückgibt.
+Schreiben Sie eine Funktion removeDuplicates(lst), die eine Listen von Ganzzahlen als Parameter entgegennimmt und die Liste ohne Duplikate in aufsteigender Reihenfolge zurückgibt.
 
 Überprüfung:
 ```python
@@ -502,19 +502,19 @@ Schreiben Sie eine Funktion removeDuplicates(intList), die eine Listen von Ganzz
 [-3,0,1,2,3,5,9,10]
 ```
 #### Übung 1.4.5
-Schreiben Sie eine Funktion maximal(intList), die eine Liste von Ganzzahlen als Parameter entgegennimmt und den größten Wert zurückgibt.
+Schreiben Sie eine Funktion maximum(lst), die eine Liste von Ganzzahlen als Parameter entgegennimmt und den größten Wert zurückgibt.
 Hinweis: Es darf keine bestehnde Funktion max() genutzt werden für die Lösung der Aufgabe.
 
 Überprüfung
 ```python
->>> maximal([-9,2,4,1,8])
+>>> maximum([-9,2,4,1,8])
 8
->>> maximal([-3,1,7,6,2,3])
+>>> maximum([-3,1,7,6,2,3])
 7
 ```
 
 #### Übung 1.4.6
-Schreiben Sie eine Funktion minimum(intList), die eine Liste von Ganzzahlen als Parameter erhält und den kleinsten Wert zurückgibt.
+Schreiben Sie eine Funktion minimum(lst), die eine Liste von Ganzzahlen als Parameter erhält und den kleinsten Wert zurückgibt.
 
 ```python
 Überprüfung:
@@ -525,18 +525,19 @@ Schreiben Sie eine Funktion minimum(intList), die eine Liste von Ganzzahlen als 
 ```
 
 #### Übung 1.4.7
-Schreiben sie eine Funktion sliceSum(intList, start, end), die drei Parameter annimmt: eine Liste **intList**, einen Startindex **start** und einen Endindex **end**. Die Funktion soll die Summe der Zahlen zwischen den Indizes start und end zurückgeben.
+Schreiben sie eine Funktion sliceSum(lst, start, end), die drei Parameter annimmt: eine Liste **lst**, einen Startindex **start** und einen Endindex **end**. Die Funktion soll die Summe der Zahlen zwischen den Indizes start und end zurückgeben.
+(Endindex inklusive)
 
 ```python
 Überprüfung:
 >>> sliceSum([4,10,12,16,18],2,4)
 46
 >>> sliceSum([2,4,6,8,10,12],0,1)
-12
+6
 ```
 
 #### Übung 1.4.8
-Schreiben Sie eine Funktion length(aList), die eine Liste als Parameter erhält und die Anzahl der Elemente in dieser Liste zurückgibt.
+Schreiben Sie eine Funktion length(lst), die eine Liste als Parameter erhält und die Anzahl der Elemente in dieser Liste zurückgibt.
 
 ```python
 Überprüfung:

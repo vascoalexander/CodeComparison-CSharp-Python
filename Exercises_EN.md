@@ -487,7 +487,7 @@ Verification:
 ```
 
 #### Exercise 1.4.4
-Write a function removeDuplicates(intList), that takes a list of integers as parameters and returns the list without duplicates in ascending order.
+Write a function removeDuplicates(lst), that takes a list of integers as parameters and returns the list without duplicates in ascending order.
 
 Verification:
 ```python
@@ -498,19 +498,19 @@ Verification:
 ```
 
 #### Exercise 1.4.5
-Write a function maximal(intList) that takes a list of integers as parameter and returns the largest value.
+Write a function maximum(lst) that takes a list of integers as parameter and returns the largest value.
 Note: No existing max() function may be used to solve the task.
 
 Verification:
 ```python
->>> maximal([-9,2,4,1,8])
+>>> maximum([-9,2,4,1,8])
 8
->>> maximal([-3,1,7,6,2,3])
+>>> maximum([-3,1,7,6,2,3])
 7
 ```
 
 #### Exercise 1.4.6
-Write a function minimum(intList) that receives a list of integers as a parameter and returns the smallest value.
+Write a function minimum(lst) that receives a list of integers as a parameter and returns the smallest value.
 
 ```python
 Überprüfung:
@@ -521,18 +521,19 @@ Write a function minimum(intList) that receives a list of integers as a paramete
 ```
 
 #### Exercise 1.4.7
-Write a function sliceSum(intList, start, end) that takes three parameters: a list **intList**, a start index **start** and an end index **end**. The function should return the sum of the numbers between the indices start and end.
+Write a function sliceSum(lst, start, end) that takes three parameters: a list **lst**, a start index **start** and an end index **end**. The function should return the sum of the numbers between the indices start and end.
+(End index inclusive)
 
 ```python
 Überprüfung:
 >>> sliceSum([4,10,12,16,18],2,4)
 46
 >>> sliceSum([2,4,6,8,10,12],0,1)
-12
+6
 ```
 
 #### Exercise 1.4.8
-Write a length(aList) function that receives a list as a parameter and returns the number of elements in this list.
+Write a length(lst) function that receives a list as a parameter and returns the number of elements in this list.
 
 ```python
 Überprüfung:
