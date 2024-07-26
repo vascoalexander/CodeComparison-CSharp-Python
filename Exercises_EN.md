@@ -272,6 +272,180 @@ You have lost the game.
 [Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)  
 [C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
 
+#### Exercise 1.3.21
+Develop a program, with loops, which outputs a 7x7 rectangle as follows:
+
+X--X---  
+-X-X---  
+--XX---  
+---X---  
+---XX--  
+---X-X-  
+---X--X  
+
+#### Exercise 1.3.22
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+........   
+........  
+........   
+........   
+========  
+========  
+========  
+========  
+```
+
+#### Exercise 1.3.23
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+....====   
+....====  
+....====  
+....====  
+========  
+========  
+========  
+========  
+```
+
+#### Exercise 1.3.24
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+....====   
+....====  
+....====  
+....====  
+====....  
+====....  
+====....  
+====....  
+```
+
+#### Exercise 1.3.25
+Develop a program, with loops, that outputs a 7x7 rectangle as follows:
+
+X--X--x  
+-X-X-X-  
+--XXX--  
+XXXXXXX  
+--XXX--  
+-X-X-X-  
+X--X--X  
+
+#### Exercise 1.3.26
+Develop a program, with loops, that outputs the following structure on the screen:
+
+X------X 
+-X----X-  
+--X--X--  
+---XX---  
+--XXXX--  
+-XXXXXX-  
+XXXXXXXX  
+
+#### Exercise 1.3.27
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+*     *
+**   **
+*** ***
+*******
+*** ***
+**   **
+*     *
+```
+
+#### Exercise 1.3.28
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+ooooooooooo
+oi...X...io
+o.i..X..i.o
+o..i.X.i..o
+o...iXi...o
+oXXXXXXXXXo
+o...iXi...o
+o..i.X.i..o
+o.i..X..i.o
+0i...X...io
+ooooooooooo
+```
+
+#### Exercise 1.3.29
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+*     *
+**   **
+* * * *
+*  *  *
+* * * *
+**   **
+*     *
+```
+
+#### Exercise 1.3.30
+Develop a program, with loops, that outputs the following structure on the screen:
+
+```
+     o     
+    o o
+   o   o
+  o     o
+ o       o
+o         o
+ o       o
+  o     o
+   o   o
+    o o
+     o
+```
+
+#### Exercise 1.3.31
+Create a program, that uses a for loop and the if query to produce the following output:
+```51 151 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
+
+#### Exercise 1.3.32
+Create a program, that produces the following output using a for loop and the if query:
+```1 502 503 4 5 6 507 508 9 10 11 512 513 14 15 16 517 518 19 20```
+
+#### Exercise 1.3.33
+Create a program, that uses a for loop and the if query to produce the following output:
+```21 22 23 24 20 26 27 28 29 25 31 32 33 34 30 36 37 38 39 35 41```
+
+#### Exercise 1.3.34
+Create a program, that displays the multiplication table on the screen:
+
+![image](./img/exercise_1-3-34.jpg)  
+
+#### Exercise 1.3.35
+Write a program, that displays the numbers from 1 to 999.
+Additional conditions:
+a) None of these numbers may contain the digit 7.  
+b) 10 numbers should appear right-aligned in each line.  
+c) The numbers should form columns.  
+
+![image](./img/exercise_1-3-35.png)  
+
+#### Exercise 1.3.36
+Write a program, that displays the following structure on the screen:
+
+```
+X X X X X  
+ X X X X   
+X X X X X  
+ X X X X   
+X X X X X  
+ X X X X   
+X X X X X
+```
+
 ### 1.4 Functions
 [Functions - Python](https://www.geeksforgeeks.org/python-functions/)  
 [Functions - C#](https://www.w3schools.com/cs/cs_methods.php)  
@@ -313,7 +487,7 @@ Verification:
 ```
 
 #### Exercise 1.4.4
-Write a function removeDuplicates(aList), that takes a list of integers as parameters and returns the list without duplicates in ascending order.
+Write a function removeDuplicates(intList), that takes a list of integers as parameters and returns the list without duplicates in ascending order.
 
 Verification:
 ```python
@@ -324,7 +498,7 @@ Verification:
 ```
 
 #### Exercise 1.4.5
-Write a function maximal(aList) that takes a list of integers as parameter and returns the largest value.
+Write a function maximal(intList) that takes a list of integers as parameter and returns the largest value.
 Note: No existing max() function may be used to solve the task.
 
 Verification:
@@ -333,6 +507,39 @@ Verification:
 8
 >>> maximal([-3,1,7,6,2,3])
 7
+```
+
+#### Exercise 1.4.6
+Write a function minimum(intList) that receives a list of integers as a parameter and returns the smallest value.
+
+```python
+Überprüfung:
+>>> minimum([-9,2,4,1,8])
+-9
+>>> minimum([-3,1,7,6,-4,3])
+-4
+```
+
+#### Exercise 1.4.7
+Write a function sliceSum(intList, start, end) that takes three parameters: a list **intList**, a start index **start** and an end index **end**. The function should return the sum of the numbers between the indices start and end.
+
+```python
+Überprüfung:
+>>> sliceSum([4,10,12,16,18],2,4)
+46
+>>> sliceSum([2,4,6,8,10,12],0,1)
+12
+```
+
+#### Exercise 1.4.8
+Write a length(aList) function that receives a list as a parameter and returns the number of elements in this list.
+
+```python
+Überprüfung:
+>>> length([2,7,23,44,1,0])
+6
+>>> length([])
+0
 ```
 
 ### 1.5 Miscellaneous
@@ -352,6 +559,12 @@ Write a program that determines the 'file extension' of a file. The name of the 
 
 #### Exercise 1.5.4
 Write a program that calculates the execution time of a script. Take one of the programs you have developed previously. The program should display the execution time at the end.
+
+#### Exercise 1.5.5
+Write a program, that determines lottery numbers that are displayed on the console. The numbers should be determined randomly and must of course be different. 
+
+#### Exercise 1.5.6
+Write a program, that determines whether an entered number is a prime number. The first prime number is 2.
 
 # 2 Data Structures
 
@@ -404,6 +617,8 @@ Write a program to create a list of 20 random numbers from a set (1-100).
 
 You need the Random module with the [randint()](https://www.w3schools.com/python/ref_random_randint.asp) function to solve this task.
 
+
+
 ```python
 from random import randint
 ```
@@ -430,6 +645,15 @@ Write a program that removes an element from a list. Given the list numbers = [1
 #### Exercise 2.2.16
 Write a program that randomly shuffles the elements of a list.
 Elements = [3,6,8,7,2,'s','ch','d']
+
+#### Exercise 2.2.17
+Write a program that initializes an integer list with 10 elements with numbers from the range -40 to 50.
+
+Output this list formatted line by line (:4d). Then reverse the list (the last ones become the first ones) and then output the list again.
+
+Example:  
+First List: 10  -20  3  -10  45  23  -11  0  1  -23  
+Second List: -23  1  0  -11  23  45  -10  3  -20  10  
 
 ### 2.3 Dictionaries
 

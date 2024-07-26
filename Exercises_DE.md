@@ -275,7 +275,181 @@ Die richtige Zahl war 7.
 Sie haben das Spiel verloren.  
 
 [Python random.randint](https://www.w3schools.com/python/ref_random_randint.asp)  
-[C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)
+[C# Random](https://learn.microsoft.com/de-de/dotnet/api/system.random.next?view=net-8.0)  
+
+#### Übung 1.3.21
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+X--X---  
+-X-X---  
+--XX---  
+---X---  
+---XX--  
+---X-X-  
+---X--X  
+
+#### Übung 1.3.22
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+........   
+........  
+........   
+........   
+========  
+========  
+========  
+========  
+```
+
+#### Übung 1.3.23
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+....====   
+....====  
+....====  
+....====  
+========  
+========  
+========  
+========  
+```
+
+#### Übung 1.3.24
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+....====   
+....====  
+....====  
+....====  
+====....  
+====....  
+====....  
+====....  
+```
+
+#### Übung 1.3.25
+Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgibt:
+
+X--X--x  
+-X-X-X-  
+--XXX--  
+XXXXXXX  
+--XXX--  
+-X-X-X-  
+X--X--X  
+
+#### Übung 1.3.26
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+X------X 
+-X----X-  
+--X--X--  
+---XX---  
+--XXXX--  
+-XXXXXX-  
+XXXXXXXX  
+
+#### Übung 1.3.27
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+*     *
+**   **
+*** ***
+*******
+*** ***
+**   **
+*     *
+```
+
+#### Übung 1.3.28
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+ooooooooooo
+oi...X...io
+o.i..X..i.o
+o..i.X.i..o
+o...iXi...o
+oXXXXXXXXXo
+o...iXi...o
+o..i.X.i..o
+o.i..X..i.o
+0i...X...io
+ooooooooooo
+```
+
+#### Übung 1.3.29
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+*     *
+**   **
+* * * *
+*  *  *
+* * * *
+**   **
+*     *
+```
+
+#### Übung 1.3.30
+Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+     o     
+    o o
+   o   o
+  o     o
+ o       o
+o         o
+ o       o
+  o     o
+   o   o
+    o o
+     o
+```
+
+#### Übung 1.3.31
+Erstellen Sie ein Programm, dass mithilfe einer for-Schleife und der if-Abrage folgede Ausgabe realisiert:
+```51 151 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
+
+#### Übung 1.3.32
+Erstellen Sie ein Programm, dass mithilfe einer for-Schleife und der if-Abrage folgede Ausgabe realisiert:
+```1 502 503 4 5 6 507 508 9 10 11 512 513 14 15 16 517 518 19 20```
+
+#### Übung 1.3.33
+Erstellen Sie ein Programm, dass mithilfe einer for-Schleife und der if-Abrage folgede Ausgabe realisiert:
+```21 22 23 24 20 26 27 28 29 25 31 32 33 34 30 36 37 38 39 35 41```
+
+#### Übung 1.3.34
+Erstellen Sie ein Programm, dass das kleine Einmaleins auf dem Bildschirm ausgibt:
+
+![image](./img/exercise_1-3-34.jpg)  
+
+#### Übung 1.3.35
+Schreiben Sie ein Programm, das die Zahlen aus dem Bereich 1 bis 999 ausgibt.
+Zusatzbedingungen:
+a) In keiner dieser Zahlen darf die Ziffer 7 vorkommen.  
+b) In jeder Zeile sollen 10 Zahlen rechtsbündig erscheinen.  
+c) Die Zahlen sollen Spalten bilden.  
+
+![image](./img/exercise_1-3-35.png)  
+
+#### Übung 1.3.36
+Schreiben Sie ein Programm, das folgende Struktur auf dem Bildschirm ausgibt:
+
+```
+X X X X  
+ X X X   
+X X X X  
+ X X X   
+X X X X  
+ X X X   
+X X X X
+```
 
 ### 1.4 Functions
 [Funktionen - Python](https://www.geeksforgeeks.org/python-functions/)  
@@ -318,7 +492,7 @@ Schreiben Sie eine Funktion mit welcher die Summe aller Elemente in einer Liste 
 ```
 
 #### Übung 1.4.4
-Schreiben Sie eine Funktion removeDuplicates(aList), die eine Listen von Ganzzahlen als Parameter entgegennimmt und die Liste ohne Duplikate in aufsteigender Reihenfolge zurückgibt.
+Schreiben Sie eine Funktion removeDuplicates(intList), die eine Listen von Ganzzahlen als Parameter entgegennimmt und die Liste ohne Duplikate in aufsteigender Reihenfolge zurückgibt.
 
 Überprüfung:
 ```python
@@ -328,7 +502,7 @@ Schreiben Sie eine Funktion removeDuplicates(aList), die eine Listen von Ganzzah
 [-3,0,1,2,3,5,9,10]
 ```
 #### Übung 1.4.5
-Schreiben Sie eine Funktion maximal(aList), die eine Liste von Ganzzahlen als Parameter entgegennimmt und den größten Wert zurückgibt.
+Schreiben Sie eine Funktion maximal(intList), die eine Liste von Ganzzahlen als Parameter entgegennimmt und den größten Wert zurückgibt.
 Hinweis: Es darf keine bestehnde Funktion max() genutzt werden für die Lösung der Aufgabe.
 
 Überprüfung
@@ -337,6 +511,39 @@ Hinweis: Es darf keine bestehnde Funktion max() genutzt werden für die Lösung 
 8
 >>> maximal([-3,1,7,6,2,3])
 7
+```
+
+#### Übung 1.4.6
+Schreiben Sie eine Funktion minimum(intList), die eine Liste von Ganzzahlen als Parameter erhält und den kleinsten Wert zurückgibt.
+
+```python
+Überprüfung:
+>>> minimum([-9,2,4,1,8])
+-9
+>>> minimum([-3,1,7,6,-4,3])
+-4
+```
+
+#### Übung 1.4.7
+Schreiben sie eine Funktion sliceSum(intList, start, end), die drei Parameter annimmt: eine Liste **intList**, einen Startindex **start** und einen Endindex **end**. Die Funktion soll die Summe der Zahlen zwischen den Indizes start und end zurückgeben.
+
+```python
+Überprüfung:
+>>> sliceSum([4,10,12,16,18],2,4)
+46
+>>> sliceSum([2,4,6,8,10,12],0,1)
+12
+```
+
+#### Übung 1.4.8
+Schreiben Sie eine Funktion length(aList), die eine Liste als Parameter erhält und die Anzahl der Elemente in dieser Liste zurückgibt.
+
+```python
+Überprüfung:
+>>> length([2,7,23,44,1,0])
+6
+>>> length([])
+0
 ```
 
 ### 1.5 Sonstiges
@@ -358,6 +565,12 @@ Schreiben Sie ein Programm das die 'Dateierweiterung' einer Datei ermittelt. Der
 
 #### Übung 1.5.4
 Schreiben Sie ein Programm, das die Ausführungszeit eines Skripts berechnet. Nehmen Sie eines der Programme die Sie zuvor entwickelt haben. Das Programm soll am Ende die die Ausführungszeit anzeigen.
+
+#### Übung 1.5.5
+Schreiben sie ein Programm, dass Lottozahlen ermittelt die auf der Konsole ausgegeben werden. Die Zahlen sollen zufällig ermittelt werden und müssen natürlich unterschiedlich sein. 
+
+#### Übung 1.5.6
+Schreiben Sie ein Programm, das feststellt ob eine eingegebene Zahl eine Primzahl ist. Die erste Primzahl ist 2.
 
 # 2 Datenstrukturen
 
@@ -436,6 +649,15 @@ Schreiben sie ein Programm, das ein Element aus einer Liste entfernt. Gegeben is
 #### Übung 2.2.16
 Schreiben Sie ein Programm, das die Elemente einer Liste zufällig mischt.
 Elemente = [3,6,8,7,2,'s','ch','d']
+
+#### Übung 2.2.17
+Schreiben Sie ein Programm, das eine Integer Liste mit 10 Elementen mit Zahlen aus dem Bereich -40 bis 50 initialisiert.
+
+Geben Sie diese Liste zeilenweise formatiert (:4d) aus. Danach drehen Sie die Liste um (die letzten werden die ersten) und anschließend geben Sie die Liste erneut aus.
+
+Beispiel:
+Erste Liste: 10  -20  3  -10  45  23  -11  0  1  -23  
+Zweite Liste: -23  1  0  -11  23  45  -10  3  -20  10  
 
 ### 2.3 Wörterbücher
 
