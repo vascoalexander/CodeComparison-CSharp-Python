@@ -1,9 +1,9 @@
 # Exercise 1-2-13
-tankCapacity = int(input("Enter the capacity of the fuel Tank: "))
-fuelComsumption = int(input("How much fuel is consumed for 100km?: "))
-fuelLeft = int(input("How much fuel is left (in %): "))
+tank_capacity = int(input("Enter the capacity of the fuel Tank: "))
+fuel_comsumption = int(input("How much fuel is consumed for 100km?: "))
+fuel_left = int(input("How much fuel is left (in %): "))
 
-rangeLeft = (tankCapacity * (fuelLeft / 100)) / (fuelComsumption / 100)
+rangeLeft = (tank_capacity * (fuel_left / 100)) / (fuel_comsumption / 100)
 
 print(f"You have fuel left for {rangeLeft:.1f}")
 

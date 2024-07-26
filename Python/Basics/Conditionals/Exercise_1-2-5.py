@@ -7,5 +7,5 @@ else:
 
 # shorter alternative
 age = int(input('Enter your Age: '))
-isAdult = 'of legal Age.' if age >= 18 else 'a minor.'
-print(f"The user is {isAdult}")
+adult = 'of legal Age.' if age >= 18 else 'a minor.'
+print(f"The user is {adult}")
