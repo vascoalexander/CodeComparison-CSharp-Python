@@ -328,6 +328,7 @@ Develop a program, with loops, that outputs the following structure on the scree
 #### Exercise 1.3.25
 Develop a program, with loops, that outputs a 7x7 rectangle as follows:
 
+```
 X--X--x  
 -X-X-X-  
 --XXX--  
@@ -335,10 +336,12 @@ XXXXXXX
 --XXX--  
 -X-X-X-  
 X--X--X  
+```
 
 #### Exercise 1.3.26
 Develop a program, with loops, that outputs the following structure on the screen:
 
+```
 X------X  
 -X----X-  
 --X--X--  
@@ -346,6 +349,7 @@ X------X
 --XXXX--  
 -XXXXXX-  
 XXXXXXXX  
+```
 
 #### Exercise 1.3.27
 Develop a program, with loops, that outputs the following structure on the screen:
