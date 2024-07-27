@@ -336,7 +336,7 @@ Entwickeln Sie ein Programm mit Schleifen, das ein 7x7-Rechteck, wie folgt ausgi
 X--X--x  
 -X-X-X-  
 --XXX--  
-XXXXXXX  
+XXXXXXX    
 --XXX--  
 -X-X-X-  
 X--X--X  
@@ -344,13 +344,13 @@ X--X--X
 #### Übung 1.3.26
 Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
 
-X------X 
+X------X  
 -X----X-  
 --X--X--  
 ---XX---  
 --XXXX--  
--XXXXXX-  
-XXXXXXXX  
+-XXXXXX-   
+XXXXXXXX   
 
 #### Übung 1.3.27
 Entwickeln Sie ein Programm mit Schleifen, das die folgende Struktur auf dem Bildschirm ausgibt:
