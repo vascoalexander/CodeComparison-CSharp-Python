@@ -1,6 +1,6 @@
 # Exercise 1-4-6
 def minimum(lst):
-    currentMin = 0
+    currentMin = lst[0]
     for item in lst:
         if item < currentMin:
             currentMin = item

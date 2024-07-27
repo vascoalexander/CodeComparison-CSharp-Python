@@ -1,6 +1,6 @@
 # Exercise 1-4-5
 def maximum(lst):
-    currentMax = 0
+    currentMax = lst[0]
     for item in lst:
         if item > currentMax:
             currentMax = item

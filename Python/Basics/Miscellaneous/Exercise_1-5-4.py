@@ -3,7 +3,7 @@ from time import time
 
 start_time = time()
 
-for i in range(2000):
+for i in range(20000):
     ergebnis = i * 8
     print(f'8 x {i} = {ergebnis}')
 
