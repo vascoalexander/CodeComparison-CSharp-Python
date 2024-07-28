@@ -576,13 +576,13 @@ Write a rock, scissors, paper game that the user can play against the computer. 
 
 ```from random import choice```
 
-Possible output:
-rock, paper, or scissors?: scissors
-computer: rock
-player: scissors
-You lose!
-Play again?(yes/no): no
-Bye
+Possible output:  
+rock, paper, or scissors?: scissors  
+computer: rock  
+player: scissors  
+You lose!  
+Play again?(yes/no): no  
+Bye  
 
 # 2 Data Structures
 

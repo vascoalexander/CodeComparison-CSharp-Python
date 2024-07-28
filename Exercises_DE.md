@@ -582,13 +582,13 @@ Schreiben Sie ein Stein, Schere, Papier Spiel das der Benutzer gegen den Compute
 
 ```from random import choice```
 
-Mögliche Ausgabe:
-Stein, Papier oder Schere?: Schere
-Computer: Stein
-Spieler: Schere
-Du hast verloren!
-Nochmal spielen?(ja/nein): nein
-Tschüss
+Mögliche Ausgabe:  
+Stein, Papier oder Schere?: Schere  
+Computer: Stein  
+Spieler: Schere  
+Du hast verloren!  
+Nochmal spielen?(ja/nein): nein  
+Tschüss  
 
 # 2 Datenstrukturen
 
