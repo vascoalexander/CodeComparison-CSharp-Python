@@ -577,6 +577,19 @@ Schreiben sie ein Programm, dass Lottozahlen ermittelt die auf der Konsole ausge
 #### Übung 1.5.6
 Schreiben Sie ein Programm, das feststellt ob eine eingegebene Zahl eine Primzahl ist. Die erste Primzahl ist 2.
 
+#### Übung 1.5.7
+Schreiben Sie ein Stein, Schere, Papier Spiel das der Benutzer gegen den Computer spielen kann. Berücksichtigen sie falsche Eingaben seitens des Spielers. Für dieses Programm können sie die Funktion choice() aus dem modul random verwenden.
+
+```from random import choice```
+
+Mögliche Ausgabe:
+Stein, Papier oder Schere?: Schere
+Computer: Stein
+Spieler: Schere
+Du hast verloren!
+Nochmal spielen?(ja/nein): nein
+Tschüss
+
 # 2 Datenstrukturen
 
 ### 2.1 Arrays

@@ -571,6 +571,19 @@ Write a program, that determines lottery numbers that are displayed on the conso
 #### Exercise 1.5.6
 Write a program, that determines whether an entered number is a prime number. The first prime number is 2.
 
+#### Exercise 1.5.7
+Write a rock, scissors, paper game that the user can play against the computer. Take false inputs by the player into consideration. You can use the choice() function from the random module for this program.
+
+```from random import choice```
+
+Possible output:
+rock, paper, or scissors?: scissors
+computer: rock
+player: scissors
+You lose!
+Play again?(yes/no): no
+Bye
+
 # 2 Data Structures
 
 ### 2.1 Arrays
