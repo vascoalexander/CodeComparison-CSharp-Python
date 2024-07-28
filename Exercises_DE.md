@@ -615,19 +615,19 @@ Schreiben Sie die Anweisungen, um eine leere Liste zu erstellen und dann die Gan
 Schreiben Sie ein Programm, das eine Liste mit dem Wert `[1,2,3,4,5,6,7,8,9,10]` erstellt und dann eine neue Liste erstellt, die jedes dritte Element aus der ersten Liste enthält. In diesem Fall sollten wir am Ende die folgende Liste erhalten: `[1,4,7,10]`.
 
 #### Übung 2.2.7
-Schreiben Sie die Anweisungen, um eine Zeichenkette in aufsteigender alphabetischer Reihenfolge zu sortieren. Zum Testen nehmen wir die Zeichenkette **c = 'frankreich'** Das Programm sollte **'acefhiknrr'** zurückgeben.
+Schreiben Sie die Anweisungen, um eine Zeichenkette in aufsteigender alphabetischer Reihenfolge zu sortieren. Zum Testen nehmen wir die Zeichenkette **c = 'Frankreich'** Das Programm sollte **'aceFhiknrr'** zurückgeben. Hinweis: wenn sie sort() oder sorted() verwenden nutzt der Sortieralgorithmus den ASCII-Wert der Character als Grundlage. Das bedeutet das Großbuchstaben vor kleingeschriebenen Buchstaben landen. Finden Sie einen Weg dies zu umgehen. Große Buchstaben sollen in der Ausgabe ebenfalls großgeschrieben sein.
 
 #### Übung 2.2.8
 Schreiben Sie ein Programm, das zwei Listen listeEins und listeZwei enthält und eine Liste listeDrei zurückgibt, die die gemeinsamen Elemente zwischen listeEins und listeZwei enthält.
 
-listeEins = [9, 8, 7, 14, 3, 2, "a" "p" "hallo", "b"]
-listeZwei = ["b", 1, 9.2, 6, 3, 9, "p"]
+liste_eins = [9, 8, 7, 14, 3, 2, "a", "p", "hallo", "b"]  
+liste_zwei = ["b", 1, 9.2, 6, 3, 9, "p"]  
 
 #### Übung 2.2.9
 Schreiben Sie ein Programm, um eine Liste von Tupeln basierend auf dem zweiten Element des Tupels in aufsteigender Reihenfolge zu sortieren.
 
 Die zu betrachtende Liste in dieser Übung ist:
-fruechte = [("Apfel", 15), ("Banane", 8), ("Fräser" 12), ("Kiwi", 9), ("Pfirsich"; 2)]
+fruechte = [("Apfel", 15), ("Banane", 8), ("Fräser", 12), ("Kiwi", 9), ("Pfirsich", 2)]
 Die Liste 'fruechte', die wir am Ende des Programms haben sollten (nach der Sortierung):
 fruechte = [("Pfirsich",2), ("Banane",8), ("Kiwi",9), ("Fräser",12), ("Apfel",15)]
 

@@ -609,19 +609,20 @@ Write the instructions to create an empty list and then add the integers **10, 2
 Write a program that creates a list with the value `[1,2,3,4,5,6,7,8,9,10]` and then creates a new list that contains every third element from the first list. In this case, we should end up with the following list: `[1,4,7,10]`.
 
 #### Exercise 2.2.7
-Write the instructions to sort a string in ascending alphabetical order. For testing, we take the string **c = 'france'** The program should return **'acefhiknrr'**.
+Write the instructions to sort a string in ascending alphabetical order. For testing, we take the string **c = 'Frankreich'** The program should return **'aceFhiknrr'**.
+Note: If you use sort() or sorted(), the sorting algorithm uses the ASCII value of the character as a basis. This means that uppercase letters end up before lowercase letters. Find a way around this. Capital letters should also be capitalized in the output.
 
 #### Exercise 2.2.8
 Write a program that contains two lists listOne and listeZwei and returns a list listTwo that contains the common elements between listeEins and listeZwei.
 
-listOne = [9, 8, 7, 14, 3, 2, “a” “p” “hello”, “b”]
-listTwo = [“b”, 1, 9.2, 6, 3, 9, “p”]
+list_one = [9, 8, 7, 14, 3, 2, “a”, “p”, “hello”, “b”]  
+list_two = [“b”, 1, 9.2, 6, 3, 9, “p”]  
 
 #### Exercise 2.2.9
 Write a program to sort a list of tuples in ascending order based on the second element of the tuple.
 
 The list to be considered in this exercise is:
-'fruit' = [('apple', 15), ('banana', 8), ('miller' 12), ('kiwi', 9), ('peach'; 2)]
+'fruit' = [('apple', 15), ('banana', 8), ('miller', 12), ('kiwi', 9), ('peach', 2)]
 The list 'fruits' that we should have at the end of the program (after sorting):
 'fruechte' = [(“peach”,2), (“banana”,8), (“kiwi”,9), (“miller”,12), (“apple”,15)]
 
