@@ -651,7 +651,7 @@ Denken Sie an mindestens drei Sorten Ihrer Lieblingspizza. Speichern Sie diese P
 a) Ändern Sie Ihren Code so, dass ein ganzer Satz mit dem Namen der Pizza ausgegeben wird.
 
 #### Übung 2.2.13
-Eine Zahl, die mit der dritten Potenz erhöht wird, nennt man einen Würfel. Zum Beispiel wird der Würfel von 2 in Python als 2**3 geschrieben. Erstellen Sie eine Liste der ersten 10 Würfel (d.h. der Würfel jeder ganzen Zahl von 1 bis 10), und verwenden Sie eine for-Schleife, um den Wert jedes Würfels auszugeben.
+Eine Zahl, die in die dritte Potenz erhoben wird, wird als Kubikzahl bezeichnet. Zum Beispiel wird der Kubus von 2 in Python als 2**3 geschrieben. Erstellen Sie eine Liste der ersten 10 Würfel (d. h. der Würfel jeder ganzen Zahl von 1 bis 10), und verwenden Sie eine for-Schleife, um den Wert jedes Würfels auszugeben.
 
 #### Übung 2.2.14
 Fügen Sie mit einem der Programme, die Sie in diesem Kapitel geschrieben haben, am Ende des Programms mehrere Codezeilen ein, die Folgendes bewirken:
