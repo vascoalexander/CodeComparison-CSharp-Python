@@ -418,7 +418,7 @@ o         o
 
 #### Übung 1.3.31
 Erstellen Sie ein Programm, dass mithilfe einer for-Schleife und der if-Abrage folgede Ausgabe realisiert:
-```51 151 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
+```51 152 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
 
 #### Übung 1.3.32
 Erstellen Sie ein Programm, dass mithilfe einer for-Schleife und der if-Abrage folgede Ausgabe realisiert:

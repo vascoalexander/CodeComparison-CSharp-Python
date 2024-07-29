@@ -413,7 +413,7 @@ o         o
 
 #### Exercise 1.3.31
 Create a program, that uses a for loop and the if query to produce the following output:
-```51 151 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
+```51 152 53 54 155 56 57 158 59 60 161 62 63 164 65 66 167 68 69```
 
 #### Exercise 1.3.32
 Create a program, that produces the following output using a for loop and the if query:
