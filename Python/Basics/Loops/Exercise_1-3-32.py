@@ -11,4 +11,4 @@ for i in range(1,21):
     if i % 5 == 2 or i % 5 == 3:
         print(i + 500, end=" ")
     else:
-        print(i, end=" ")   
+        print(i, end=" ")
